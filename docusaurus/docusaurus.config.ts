@@ -5,16 +5,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'AMPS',
-  tagline: 'Dinosaurs are cool',
+  title: 'Vendasta Services',
+  tagline: 'Documentation and guides for your success',
   favicon: 'img/logo.svg',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  // Future flags (rspack disabled to avoid module resolve issues with doc paths)
   future: {
-    experimental_faster: {
-      rspackBundler: true,
-      rspackPersistentCache: true,
-    },
+    // experimental_faster: { rspackBundler: true, rspackPersistentCache: true },
   },
 
   // Set the production url of your site here
@@ -57,11 +54,15 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: false,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'AMPS',
+      title: 'Vendasta Services',
       logo: {
-        alt: 'AMPS Logo',
+        alt: 'Vendasta Services Logo',
         src: 'img/logo.svg',
       },
       items: [

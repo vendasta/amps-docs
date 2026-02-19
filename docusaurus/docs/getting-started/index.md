@@ -1,10 +1,10 @@
-# Getting Started with AI Managed Professional Services
+# Getting Started with Vendasta Services
 
-Welcome to AI Managed Professional Services (AMPS). This section will guide you through the initial setup and onboarding process.
+Welcome to Vendasta Services. This section will guide you through the initial setup and onboarding process.
 
 ## Overview
 
-AMPS provides comprehensive AI-powered solutions to help manage and automate various aspects of your professional services business.
+Vendasta Services provides comprehensive AI-powered solutions to help manage and automate various aspects of your professional services business.
 
 ## Quick Start
 
