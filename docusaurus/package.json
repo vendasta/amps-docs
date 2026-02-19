@@ -5,6 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "open-test": "start http://localhost:3001/docs/guru-card-contents/MS-Communications",
+    "start:test": "start /B npm run start && timeout /t 12 && start http://localhost:3001/docs/guru-card-contents/MS-Communications",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -12,7 +14,9 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "start:dev": "docusaurus clear && docusaurus start",
+    "start:dev:3001": "docusaurus clear && docusaurus start --port 3001"
   },
   "dependencies": {
     "@docusaurus/core": "3.8.1",
@@ -20,6 +24,7 @@
     "@docusaurus/preset-classic": "3.8.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "estree-util-value-to-estree": "^3.5.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

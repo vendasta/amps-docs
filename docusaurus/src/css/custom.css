@@ -1,10 +1,7 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Vendasta Services docs - slightly dark theme, same green palette
  */
 
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -14,17 +11,156 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.15);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Slightly dark theme: same green palette, dark backgrounds */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #3cad6e;
+  --ifm-color-primary-dark: #359962;
+  --ifm-color-primary-darker: #2e8555;
+  --ifm-color-primary-darkest: #277148;
+  --ifm-color-primary-light: #4fddbf;
+  --ifm-color-primary-lighter: #5ee0c4;
+  --ifm-color-primary-lightest: #7de6cf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --ifm-background-color: #1a1d1e;
+  --ifm-background-surface-color: #222628;
+  --ifm-font-color-base: #e8eaeb;
+  --ifm-heading-color: #f0f1f2;
+  --ifm-navbar-background-color: #1a1d1e;
+  --ifm-footer-background-color: #151819;
+}
+
+/* Hero: darker green, comfortable spacing */
+.hero--primary {
+  background: linear-gradient(180deg, #1b3d2f 0%, #163328 100%);
+}
+
+.hero__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.hero__subtitle {
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 1.15rem;
+  font-weight: 400;
+}
+
+/* Main content area: subtle dark surface */
+.main-wrapper main {
+  background-color: var(--ifm-background-color);
+}
+
+/* Buttons in hero */
+.hero .button--secondary {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  color: #fff;
+}
+
+.hero .button--secondary:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+  color: #fff;
+}
+
+/* Navbar: dark, matches theme */
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.navbar__title,
+.navbar__link {
+  color: var(--ifm-font-color-base);
+}
+
+.navbar__link:hover {
+  color: var(--ifm-color-primary-light);
+}
+
+/* Footer stays dark */
+.footer {
+  background-color: var(--ifm-footer-background-color);
+}
+
+.footer__link-item,
+.footer__title {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary-light);
+}
+
+.footer__copyright {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Doc content: aligned with MS-Communications, green and black hierarchy */
+.markdown h1,
+main .markdown h1 {
+  color: var(--ifm-heading-color);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+/* All h2 (including Table of Contents): green heading + underline - match MS-Communications */
+.markdown h2,
+main .markdown h2,
+main h2,
+[class*="markdown"] h2,
+article h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary) !important;
+  font-weight: 600;
+  font-size: 1.35em;
+}
+/* Force Table of Contents and all h2 green (override any theme) */
+#__docusaurus .markdown h2,
+#__docusaurus main h2 {
+  color: #2e8555 !important;
+}
+[data-theme='dark'] #__docusaurus .markdown h2,
+[data-theme='dark'] #__docusaurus main h2 {
+  color: #3cad6e !important;
+}
+.markdown h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.15em;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+}
+.markdown h4 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.05em;
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+.markdown p,
+.markdown li {
+  color: var(--ifm-font-color-base);
+  line-height: 1.6;
+}
+.markdown ul,
+.markdown ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+.markdown li {
+  margin-bottom: 0.4rem;
+}
+.markdown li ul,
+.markdown li ol {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+/* Strong labels (e.g. Allowed:, Not Allowed:) stand out */
+.markdown li strong {
+  color: var(--ifm-heading-color);
 }
