@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Vendasta Services',
   tagline: 'Documentation and guides for your success',
-  favicon: 'img/logo.svg',
+  favicon: 'img/vendasta-logo.png',
 
   // Future flags (rspack disabled to avoid module resolve issues with doc paths)
   future: {
@@ -62,8 +62,8 @@ const config: Config = {
     navbar: {
       title: 'Vendasta Services',
       logo: {
-        alt: 'Vendasta Services Logo',
-        src: 'img/logo.svg',
+        alt: 'Vendasta Logo',
+        src: 'img/vendasta-logo.png',
       },
       items: [
         {

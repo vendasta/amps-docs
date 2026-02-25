@@ -2,7 +2,11 @@
  * Vendasta Services docs - slightly dark theme, same green palette
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
 :root {
+  --ifm-font-family-base: 'Raleway', system-ui, -apple-system, sans-serif;
+  --ifm-font-family-monospace: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -12,6 +16,12 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.15);
+}
+
+html,
+body,
+#__docusaurus {
+  font-family: 'Raleway', system-ui, -apple-system, sans-serif !important;
 }
 
 /* Slightly dark theme: same green palette, dark backgrounds */
@@ -80,6 +90,11 @@
   color: var(--ifm-color-primary-light);
 }
 
+.navbar__logo img {
+  height: 32px;
+  width: auto;
+}
+
 /* Footer stays dark */
 .footer {
   background-color: var(--ifm-footer-background-color);
@@ -98,14 +113,20 @@
   color: rgba(255, 255, 255, 0.5);
 }
 
-/* Doc content: aligned with MS-Communications, green and black hierarchy */
+/* Doc content: alignment + bold headings (match docs.vendasta.com) */
+.main-wrapper main .container,
+.main-wrapper article {
+  text-align: left;
+}
+
 .markdown h1,
 main .markdown h1 {
   color: var(--ifm-heading-color);
   margin-bottom: 0.5rem;
   font-weight: 700;
+  text-align: left;
 }
-/* All h2 (including Table of Contents): green heading + underline - match MS-Communications */
+/* Sub-headings (h2): bold, green, underline */
 .markdown h2,
 main .markdown h2,
 main h2,
@@ -116,10 +137,10 @@ article h2 {
   padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--ifm-color-primary);
   color: var(--ifm-color-primary) !important;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.35em;
+  text-align: left;
 }
-/* Force Table of Contents and all h2 green (override any theme) */
 #__docusaurus .markdown h2,
 #__docusaurus main h2 {
   color: #2e8555 !important;
@@ -128,29 +149,36 @@ article h2 {
 [data-theme='dark'] #__docusaurus main h2 {
   color: #3cad6e !important;
 }
-.markdown h3 {
+/* Sub-headings (h3, h4): bold */
+.markdown h3,
+main .markdown h3 {
   margin-top: 1.75rem;
   margin-bottom: 0.75rem;
   font-size: 1.15em;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--ifm-color-primary);
+  text-align: left;
 }
-.markdown h4 {
+.markdown h4,
+main .markdown h4 {
   margin-top: 1.25rem;
   margin-bottom: 0.5rem;
   font-size: 1.05em;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--ifm-font-color-base);
+  text-align: left;
 }
 .markdown p,
 .markdown li {
   color: var(--ifm-font-color-base);
   line-height: 1.6;
+  text-align: left;
 }
 .markdown ul,
 .markdown ol {
   margin-bottom: 1.25rem;
   padding-left: 1.5rem;
+  text-align: left;
 }
 .markdown li {
   margin-bottom: 0.4rem;
