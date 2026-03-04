@@ -192,3 +192,8 @@ main .markdown h4 {
 .markdown li strong {
   color: var(--ifm-heading-color);
 }
+
+/* Conversion Rates of Currencies heading in green (SOP doc) */
+#conversion-rates-of-currencies {
+  color: var(--ifm-color-primary) !important;
+}
