@@ -587,7 +587,7 @@ Integrate connections such as GBP, GA, GSC, Facebook, and other essential applic
 ![](/img/sop-seo-services/15.png)  
 
 
-**Include the following data points in the report:**
+Include the following data points in the report:
 
   * **Overview :** General performance snapshot.  
 
