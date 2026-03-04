@@ -1,0 +1,14 @@
+//Preload link for Home image or video
+function inject_preload_links_high_in_head() {
+if (is_front_page()) {
+ob_start(function ($buffer) {
+$preload = '
+<link rel="preload" href="/wp-content/uploads/2025/02/flower.webp" as="image" type="image/webp"/>
+<link rel="preload" href="/wp-content/uploads/2024/12/Placeholder-Video-1.mp4" as="video" type="video/mp4"/>
+';
+// Insert preload tags just before the first meta tag
+return preg_replace('/(<meta[^>]+>)/i', $preload . "\n$1", $buffer, 1);
+});
+}
+}
+add_action('template_redirect', 'inject_preload_links_high_in_head');

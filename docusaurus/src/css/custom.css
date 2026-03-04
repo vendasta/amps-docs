@@ -197,3 +197,9 @@ main .markdown h4 {
 #conversion-rates-of-currencies {
   color: var(--ifm-color-primary) !important;
 }
+
+/* Hide default doc/card icon at top of doc pages if theme injects one */
+.main-wrapper main .theme-doc-markdown > div[class*="card"]:first-child,
+.main-wrapper main .theme-doc-markdown > div[class*="contentLogo"]:first-child {
+  display: none !important;
+}
