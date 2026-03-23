@@ -6,6 +6,7 @@ sidebar_position: 2
 
 # SEO Services
 
+<div class="seo-services-doc sop-data-tables sop-data-tables--violet-dark">
 
 ## Table of Contents
 
@@ -56,202 +57,90 @@ sidebar_position: 2
 
 ---
 
-## SEO-Standard with Local SEO process 
+## SEO-Standard with Local SEO process
 
-Timeline Same Business day
-  * Complete Admin Work (CE team)
-    * Audit Fulfillment Form
-    * Send Confirmation Email
+### Timeline — same business day
 
+| No. | Stage |
+| --- | --- |
+| 1 | Complete Admin Work (CE team: audit fulfillment form; send confirmation email) |
 
+### Timeline — 1 to 3 days
 
-Timeline 1 to 3 days
-  * Perform a Competitive Analysis
-    * Identify the client's main competitors (3-5).
-      * Use SE Ranking’s Competitor Research module to input the client's domain and find competitors' ranking for similar keywords.
-      * Ensure you're targeting the correct geo-location by using tools like Google and Bing to confirm the competition suggested by SE Ranking.
-    * Analyze competitors' websites (content, keywords, backlinks, etc.).
-    * Document competitors' strengths and weaknesses.
-    * Identify opportunities for the client to outperform competitors.
-  * Audit Client's Website
-  * Crawl the client's website. (Using SERanking)
-    * Analyze website structure and navigation.
-    * Evaluate existing content for quality and relevance.
-    * Check for technical SEO issues.
-    * Document findings and recommendations.
-  * Research & Finalize Keyword Set
-    * Brainstorm initial keyword ideas.
-    * Use keyword research tools to expand the list.
-    * Analyze keyword search volume, competition, and relevance.
-    * Categorize keywords (e.g., primary, secondary, long-tail).
-    * Finalize the target keyword set.
-  * Establish Baseline Rank of Keyword Set (Using SERanking)
-    * Use a rank tracking tool to check current keyword rankings.
-    * Record baseline rankings for Google search and Bing all target keywords.
-    * Document the date and time of the ranking check.
-  * Create an Initial Slide Deck within 3 days of the order
-    * Compile findings from the audit and competitive analysis.
-    * Outline the initial keyword strategy.
-    * Develop presentation slides.
-    * Ensure the deck is clear and concise.
-    * [Ganbatte SEO Consultation Report](https://docs.google.com/presentation/d/16E--gCxBS_Enav8rYe2trLHik8xut6BNu23_rY6m2F4/edit?usp=sharing) \- Example SEO deck
-  * Send Post-Consult Email  
+| No. | Stage |
+| --- | --- |
+| 1 | Perform a Competitive Analysis (identify 3–5 competitors; SE Ranking Competitor Research + geo check in Google/Bing; analyze sites for content, keywords, backlinks; document strengths/weaknesses; find opportunities) |
+| 2 | Audit Client's Website |
+| 3 | Crawl the client's website (SERanking: structure, navigation, content quality, technical SEO; document findings and recommendations) |
+| 4 | Research & Finalize Keyword Set (brainstorm; expand with tools; volume/competition/relevance; categorize primary/secondary/long-tail; finalize set) |
+| 5 | Establish Baseline Rank of Keyword Set (SERanking: record Google and Bing rankings for all target keywords with date/time) |
+| 6 | Create an Initial Slide Deck within 3 days of the order (audit + competitive findings; keyword strategy; clear slides; [Ganbatte SEO Consultation Report](https://docs.google.com/presentation/d/16E--gCxBS_Enav8rYe2trLHik8xut6BNu23_rY6m2F4/edit?usp=sharing) — example) |
+| 7 | Send Post-Consult Email |
 
+### First month (SEO tasks begin after onboarding)
 
+| No. | Stage |
+| --- | --- |
+| 1 | Create & Claim GBP Listing (SEO team: check existing GMB; create or claim; optimize info and photos) |
+| 2 | Create & Claim Bing Listing (SEO team: check Bing Places; create or claim; optimize) |
+| 3 | Create Google Analytics GA4 and GSC (SEO team) |
+| 4 | Local SEO Setup (update business profile; listing sync and citations; add targeted keywords; executive report; integrations: Facebook, GA4, Google Business Profile, GSC, CRM, Apple Business Connect optional, Conversation AI) |
+| 5 | Executive report contents (overview, leads, listings, SEO analytics; keyword metrics, tracking keywords, clicks/impressions/queries in Google Search, top pages, active users, sessions, duration, page views, new users, bounce rate, engaged sessions; top referral sources, AI traffic GA, AIO overview/traffic SERanking) — [Sample Executive Report PDF](https://drive.google.com/file/d/1jo6AOm4FcPgTwE85BwHIefvVeeTtOkcZ/view?usp=sharing) |
+| 6 | Review Technical SEO Elements (robots.txt/meta robots; canonicalization; XML sitemap; confirm GA4, GTM, Bing Webmaster — add if missing; indexing; redirects, SEO-friendly URLs, broken links) |
+| 7 | Complete Website Performance Optimization (mobile friendliness; speed and responsiveness) |
+| 8 | Review & Optimize Website Content (expand relevant content; fix duplicate content; publish blogs; increase CTAs) |
+| 9 | GEO SEO monthly blog — 800 to 1200 words (calendar; write/edit; GEO-SEO optimize; QA; publish) |
+| 10 | Technical SEO (broken links; internal linking; speed; meta titles, descriptions, alt tags; UX review; submit sitemaps) |
+| 11 | Monthly SEO report (PDF to customer and business app; executive report on platform with ongoing insights; R&D for additional metrics e.g. AIO, traffic) |
 
+## 2 to 12 months — ongoing SEO tasks
 
-First Month SEO tasks begin after onboarding
-  * Create & Claim GBP Listing (SEO team)
-    * Check if a Google Business Profile (GMB) listing exists.
-    * Create a new GBP listing or claim an existing one.
-    * Optimize the GBP listing (business information, photos, etc.).
-  * Create & Claim Bing Listing (SEO team)
-    * Check if a Bing Places for Business listing exists.
-    * Create a new listing or claim an existing one.
-    * Optimize the Bing listing.
-    * Create & Claim Bing Listing
-  * Create Google Analytics GA4 and GSC (SEO team)
-  * Local SEO Setup:
-    * Update the business information in your business profile
-    * Listing Sync, Citations   
-Add the targeted Keywords
-    * Executive Report  
- Integrations of the application Facebook, Google Analytics GA4, Google 
+| No. | Stage |
+| --- | --- |
+| 1 | Optimize Technical SEO Elements (crawl errors, redirects, Core Web Vitals, mobile/cross-browser, robots.txt/XML sitemap, speed: compression, lazy load, caching) |
+| 2 | Optimize On-Page Content (meta titles/descriptions, H1/H2; keyword placement; internal linking; alt tags; readability Grade 7–9) |
+| 3 | Review Off-Page SEO Assets & Recommendations (backlink quality vs spam; high-authority opportunities; citations/NAP consistency) |
+| 4 | Research & Provide Complete Backlink List (Ahrefs, SEMrush, GSC; high-quality domains; outreach/broken link recovery) |
+| 5 | Post Monthly Blog (1 post 1,000–1,500 words; **E-E-A-T**; internal/external links, images, CTAs) |
+| 6 | Submitting Sitemaps (GSC and Bing Webmaster; verify indexing) |
+| 7 | Generate & Review Monthly Performance Report (traffic, ranking, CTR, conversions; vs Month 1; priorities for next month) |
+| 8 | Add Schema Markup (LocalBusiness, Product, FAQ, BlogPosting; Rich Results Test; monitor rich results) |
+| 9 | Review & Take Action on CTA Opportunities (evaluate/add/test CTAs) |
+| 10 | Identify Areas to Expand Relevant Content (gap analysis vs competitors; topic clusters; extra location/service pages) |
+| 11 | Backlinks — ongoing after month 2 (opportunities; outreach; track quality; **10 strategic backlinks** for SEO Standard, **5 additional** for SEO Plus) |
 
+### Process expectations — SEO Standard
 
+| No. | What’s included |
+| --- | --- |
+| 1 | 1 monthly GEO-SEO blog (geo-enhanced, AI-authored, keyword and location tailored) |
+| 2 | 10 strategic backlink implementations monthly (from month 3 onward) |
+| 3 | 5 core onsite SEO (SXO) pages (two primary keywords each; ongoing monthly updates) |
+| 4 | Google Business Profile & Bing Local SEO (claiming and setup) |
+| 5 | Monthly AI-driven SEO/SXO reports (PDF + business app; AI/LLM traffic in PDF) |
+| 6 | Ongoing technical SEO enhancements (monthly crawlability, speed, mobile, technical health) |
+| 7 | 10 target keywords (monitoring and optimization ongoing) |
 
-Business Profile, Google Search Console, CRM, Apple Business Connect (Option) Conversation AI 
+### SEO Plus add-on
 
-  * Report contain
-      * Overview, Leads, Listings, SEO Analytics data
-      * Keyword Metrics, Tracking Keywords, Clicks in Google Search, Impressions in Google Search, Queries on 1st page of Google Search, Top 10 Pages in Google Search, Active Users, Sessions, Average Session Duration, Page Views, Page/Views Session, New Users, Bounce rate, Engaged Sessions
+| No. | Add-on |
+| --- | --- |
+| 1 | 5 additional backlink implementations _(extra link equity)_ |
+| 2 | GBP & Bing Local SEO optimization (GEO) _(ongoing profile + monthly posts)_ |
+| 3 | Up to 10 additional target keywords |
+| 4 | 5 additional onsite SEO (SXO) pages |
+| 5 | Additional monthly AI GEO-SEO blog |
 
+### 1. Complete Admin Work
 
+**Responsibility:** Client Engagement · **Timeline:** Same business day
 
-Top Referral Sources, AI Traffic Sources data (GA), AIO overview/Traffic(SERanking)
-[Sample Executive Report Pdf](https://drive.google.com/file/d/1jo6AOm4FcPgTwE85BwHIefvVeeTtOkcZ/view?usp=sharing)
-
-  * Review Technical SEO Elements
-    * Ensure proper Robots.txt
-      * meta="robots"
-    * Ensure Proper Canonicalization
-    * Ensure proper XML sitemap
-    * Confirm GA4, GTM, Bing Webmaster are present - add if not
-    * Confirm that the website is properly indexed
-    * Check redirection, SEO friendly URLS, Broken links, and repair where necessary
-  * Complete Website Performance Optimization
-    * Check mobile friendliness
-    * Website Speed and Responsiveness
-  * Review & Optimize Website Content
-    * Identify areas to expand relevant content & implement
-    * Rewrite any duplicate content if it exists
-    * Publish blogs 
-    * Find opportunities to increase CTAs on the site
-  * GEO SEO Monthly Blog 800 to 1200 words
-    * Create a blog content calendar.
-    * Write or edit blog posts.
-    * Optimize blog posts for GEO - SEO.
-    * QA Blog
-    * Publish blog posts on the website.
-  * Technical SEO
-    * Check for broken links and repair
-    * Review internal linking structure and make necessary adjustments
-    * Optimize website speed
-    * Review meta titles, descriptions, and alt tags
-    * Review the website UX for any improvements
-    * Submit Sitemaps
-  * Monthly SEO report sent to the customer as a pdf also to be stored in the business app. Executive Report on the platform will consist ongoing performance insights (Working with R&D team, to include additional metrics AIO, Traffic, etc.,)
-
-
-
-# 2 to 12 Months Ongoing SEO Tasks 
-
-  * 1\. Optimize Technical SEO Elements
-    * Audit and fix crawl errors, broken links, and redirect issues.
-    * Improve Core Web Vitals (LCP, CLS, FID).
-    * Ensure mobile responsiveness and cross-browser compatibility.
-    * Review robots.txt and XML sitemap setup.
-    * Optimize site speed (image compression, lazy loading, caching).  
-
-  * 2\. Optimize On-Page Content
-    * Review and refine meta titles, meta descriptions, and H1/H2 tags.
-    * Adjust keyword placement (keyword density, proximity, variation).
-    * Update internal linking structure for stronger topical authority.
-    * Optimize image alt tags and file naming for SEO.
-    * Enhance readability (Grade 7–9 level, short paragraphs, bullet points).
-  * 3\. Review Off-Page SEO Assets & Provide Recommendations
-    * Evaluate the current backlink profile for quality vs. spammy links.
-    * Identify opportunities for high-authority backlinks (guest posts, partnerships).
-    * Review citations and directory listings for consistency (NAP: Name, Address, Phone).  
-
-  * 4\. Research & Provide Complete Backlink List
-    * Compile a list of competitors’ backlinks using tools (Ahrefs, SEMrush, GSC).
-    * Identify high-quality referring domains relevant to industry.
-    * Highlight link-building opportunities (outreach prospects, broken link recovery).
-  * 5\. Post Monthly Blog
-    * Publish 1 optimized blog post (1,000–1,500 words)
-    * Ensure the blog aligns with target keywords, local SEO, and **E-E-A-T** principles.
-    * Add internal and external links, images, and CTA buttons.
-  * 6\. Submitting Sitemaps
-    * Submit updated XML sitemap to Google Search Console and Bing Webmaster Tools.
-    * Verify indexing status for new/updated pages.
-  * 7\. Generate & Review Monthly Performance Report
-    * Provide a performance overview (traffic, ranking, CTR, conversions).
-    * Highlight improvements from Month 1.
-    * Identify priority action items for Month 3
-  * 8\. Add Schema Markup
-    * Implement structured data for key pages (LocalBusiness, Product, FAQ, BlogPosting).
-    * Validate schema with Google’s Rich Results Test.
-    * Monitor for rich snippet appearance.
-  * 9\. Review & Take Action on CTA Opportunities
-    * Evaluate current CTAs across service/product pages.
-    * Add/update call-to-action prompts (buttons, banners, forms).
-    * A/B test CTA placement to improve conversion rates
-  * 10\. Identify Areas to Expand Relevant Content
-    * Perform content gap analysis vs. competitors.
-    * Create a list of new topic clusters and supporting articles.
-    * Recommend additional location/service pages where relevant.  
-
-  * Backlinks (Ongoing after 2nd month SEO tasks)    * Identify backlink opportunities.
-    * Reach out to potential link sources. And create backlinks based on SEO product
-    * Track backlink acquisition efforts.
-    * Monitor the backlink profile for quality.
-    * 10 strategic backlink implementations For SEO Standard 5 additional backlink implementations for SEO plus
-
-
-Process Expectations
-SEO Standard
-  * 1 monthly GEO-SEO blog – Delivered once per month, this geo-enhanced, fully SEO-optimized, AI-authored blog is tailored to your target keywords and service locations.
-  * 10 strategic backlink implementations – Monthly backlink building (starting after 2 months) to boost domain authority and search visibility.
-  * 5 core onsite SEO (SXO) pages – We optimized five core onsite SEO (SXO) pages to enhance both search engine visibility and user experience — driving higher engagement and conversions. Each page targets two primary keywords, and the optimization process is ongoing, with monthly content updates to keep the pages fresh, relevant, and performance-driven.
-  * Google Business Profile & Bing Local SEO – Claiming and setup to improve local search visibility.
-  * Monthly AI-driven SEO/SXO reports – We provide monthly AI-driven SEO/SXO reports with actionable insights and recommendations to monitor performance and guide improvements. An executive SEO report is delivered in PDF format every month, and performance can also be tracked through our business app. The reports PDF includes data from AI/LLM-sourced traffic, giving a comprehensive view of the website’s performance and growth opportunities.
-  * Ongoing technical SEO enhancements – Our team implements technical SEO enhancements to improve the website’s crawlability, loading speed, mobile responsiveness, and overall technical health. These optimizations are carried out every month to ensure the site remains fast, accessible, and fully optimized for both users and search engines.
-  * 10 target keywords – We target high-intent keywords to drive qualified traffic and boost conversions. Rankings are continuously monitored, and underperforming keywords are optimized to maximize results. This ongoing monthly process ensures sustained growth and measurable SEO impact throughout the project.
-
-
-
-SEO Plus Add-on
-  * 5 additional backlink implementations _(extra link equity for authority growth)_
-  * GBP & Bing Local SEO optimization (GEO) _(continuous profile optimization + monthly posts to platforms)_
-  * Up to 10 additional target keywords _(hyper-targeted expansion for reach)_
-  * 5 additional onsite SEO (SXO) pages _(expanded coverage + conversion-focused UX)_
-  * Additional monthly AI GEO-SEO blog _(double the content, double the local impact)_
-
-
-
-**1. Complete Admin Work**  **Responsibility:** Client Engagement   
-**Timeline:** Same Business day
-  * Review the Fulfillment form submitted by the client to ensure all required information is complete.
-  * Validate the provided information against project requirements to ensure no critical details are missing. Note any discrepancies or missing information for follow-up, and communicate with the client to clarify or obtain missing details.
-  * Draft a confirmation email to the client.
-    * Use macros as a starting point.
-  * Outline the next steps in the process
-  * Include the Consultation Call link. 
-    * Once a call time has been selected,
-  * Send the email and log the communication in the VTM task project.
-
-
+| No. | Stage |
+| --- | --- |
+| 1 | Review fulfillment form for completeness |
+| 2 | Validate against project requirements; note gaps; follow up with client for missing details |
+| 3 | Draft confirmation email (macros as starting point; next steps; include consultation call link once time selected) |
+| 4 | Send email and log communication in the VTM task project |
 
 ## 
 
@@ -1298,3 +1187,5 @@ By combining:
 ✔ Snippet targeting
 
 We position your business to appear where users are actively seeking immediate answers.
+
+</div>

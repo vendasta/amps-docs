@@ -1,0 +1,110 @@
+VS Internal Bot: Knowledge Base & Feedback Loop
+
+1. Overview
+
+This document describes the end-to-end process for:
+
+1. Knowledge sourcing and delivery — Exporting content from Guru cards, publishing SOPs and knowledge in the AMPS Docs repository, connecting that knowledge to the Chat Receptionist – VS Internal Bot, and having the bot answer user queries in Google Chat.
+
+2. Feedback and correction loop — Allowing users to flag incorrect or contradictory bot responses by reacting with a ticket emoji (🎫). That reaction creates a row in a Google Sheet, which triggers creation of a Jira task. Tasks are assigned to knowledge owners to update the source content, keeping the bot's knowledge accurate over time.
+
+Goals:
+
+• Single, up-to-date source of truth for SOPs and Guru-style knowledge (AMPS Docs).
+• Internal users get answers in the VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7) from the VS Internal Bot.
+• Incorrect or conflicting answers are captured, turned into Jira tasks, and fixed at the source so the bot stays reliable.
+
+2. Architecture Overview
+
+Two flows work together: knowledge delivery (source to bot to users) and feedback loop (users flag errors to sheet to Jira to fix at source).
+
+Knowledge flow (source to users):
+
+    Guru Cards  --export/update-->  AMPS Docs  --knowledge links-->  VS Internal Bot  --answers-->  Google Chat
+    (source)                        (published site)                 (Chat Receptionist)            (VS Internal)
+
+Feedback flow (flag wrong answer, then fix at source):
+
+    User reacts with ticket emoji on wrong answer in Google Chat
+                    |
+                    v
+    Feedback/requests Google Sheet  --automation (new row to task)-->  Jira board (CJT)
+                                                                              ^
+    Knowledge owners update AMPS Docs and/or Guru  --------------------------|
+
+3. Part 1: Knowledge Base Setup and Bot Answers
+
+3.1 From Guru Cards to AMPS Docs
+
+• Content was exported from Guru cards and used to create or update SOPs and knowledge articles in the AMPS Docs repository.
+• The repository is built and published as a documentation site.
+
+The published knowledge base (AMPS Docs) (https://amps-docs-642433220657.us-central1.run.app/docs/intro) is the single source of truth for the procedures and knowledge that the bot uses.
+
+3.2 Connecting Knowledge to the Bot
+
+• The Chat Receptionist – VS Internal Bot is configured in Vendasta's Business App (AI Assistants).
+• Knowledge links pointing to the AMPS Docs site (and relevant sections) were added to this bot so it can use the published SOPs and Guru-derived content to answer questions.
+
+Open the Chat Receptionist – VS Internal Bot edit page (https://vendasta-corporate-only.smblogin.com/account/location/AG-4JSWHQFDFW/ai/assistants/ASSISTANT-chat-receptionist/edit) (Vendasta sign-in required) to manage knowledge links.
+
+3.3 Where Users Get Answers
+
+• Users ask questions about SOPs and Guru card knowledge in the VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7).
+• The VS Internal Bot responds in that space using the knowledge linked from AMPS Docs.
+
+Summary of Part 1:
+
+Step 1: Guru card content is exported and used to create/update SOPs in the AMPS Docs repo.
+Step 2: AMPS Docs is published at the published knowledge base (https://amps-docs-642433220657.us-central1.run.app/docs/intro).
+Step 3: The Chat Receptionist – VS Internal Bot is given knowledge links to this published site via the bot edit page (https://vendasta-corporate-only.smblogin.com/account/location/AG-4JSWHQFDFW/ai/assistants/ASSISTANT-chat-receptionist/edit).
+Step 4: Users ask questions in the VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7); the bot answers using that knowledge.
+
+4. Part 2: Feedback Loop (Flag Wrong Answers → Sheet → Jira → Fix Knowledge)
+
+This is the correction and maintenance process so the bot's answers stay accurate.
+
+4.1 User flags a wrong or contradicting answer
+
+• When a user sees a bot response that is incorrect or contradicts known procedures/SOPs, they react to that chat message with the 🎫 (ticket) emoji.
+
+4.2 New row on the Google Sheet
+
+• That reaction is processed so that a new row is created on the feedback/requests Google Sheet (https://docs.google.com/spreadsheets/d/1V0Gj23HD3BrUhj3QqkKFKFElkfuoSfu7RmZGTIsTsnM/edit?gid=0#gid=0).
+• The row captures the context needed to investigate and fix the answer (e.g. query, bot response, thread/message reference).
+
+4.3 New task on the Jira board
+
+• When a new row is added (or when the sheet is updated), automation runs (e.g. Apps Script + Jira webhook) and creates a new task on the Chat-Jira Test (CJT) Jira board (https://vendasta.jira.com/jira/software/projects/CJT/boards/1790?jql=).
+• The task represents "fix the knowledge that led to this wrong answer."
+
+4.4 Assignment and update of knowledge
+
+• Tasks are assigned to the existing knowledge owners on the board (e.g. by area: SOPs, Guru content, product).
+• Owners update the knowledge source (AMPS Docs and/or Guru, as applicable) so that:
+  - The corrected content is published in AMPS Docs.
+  - The bot (which uses links to AMPS Docs) then responds correctly to similar questions in the future.
+
+Summary of Part 2:
+
+Step 1: User reacts with 🎫 on the bot's incorrect/contradicting message in the VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7).
+Step 2: A new row is created in the feedback/requests Google Sheet (https://docs.google.com/spreadsheets/d/1V0Gj23HD3BrUhj3QqkKFKFElkfuoSfu7RmZGTIsTsnM/edit?gid=0#gid=0).
+Step 3: Automation creates a new task on the CJT Jira board (https://vendasta.jira.com/jira/software/projects/CJT/boards/1790?jql=).
+Step 4: Task is assigned to the relevant knowledge owner(s).
+Step 5: Owner updates the knowledge source (AMPS Docs / Guru); bot answers improve.
+
+5. Tools and Links Reference
+
+Published knowledge base (AMPS Docs)  →  AMPS Docs intro (https://amps-docs-642433220657.us-central1.run.app/docs/intro)
+Chat Receptionist – VS Internal Bot (edit)  →  VS Internal Bot edit page (https://vendasta-corporate-only.smblogin.com/account/location/AG-4JSWHQFDFW/ai/assistants/ASSISTANT-chat-receptionist/edit)
+Google Chat space (VS Internal)  →  VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7)
+Feedback / requests Google Sheet  →  Feedback and requests Sheet (https://docs.google.com/spreadsheets/d/1V0Gj23HD3BrUhj3QqkKFKFElkfuoSfu7RmZGTIsTsnM/edit?gid=0#gid=0)
+Jira board (CJT)  →  CJT Jira board (https://vendasta.jira.com/jira/software/projects/CJT/boards/1790?jql=)
+
+6. Summary
+
+• Knowledge flow: Guru → AMPS Docs (repo + published site (https://amps-docs-642433220657.us-central1.run.app/docs/intro)) → knowledge links in Chat Receptionist – VS Internal Bot → answers in the VS Internal Google Chat space (https://chat.google.com/room/AAAAbYrLTAc?cls=7).
+
+• Feedback flow: User reacts 🎫 on wrong answer → row in feedback/requests Sheet (https://docs.google.com/spreadsheets/d/1V0Gj23HD3BrUhj3QqkKFKFElkfuoSfu7RmZGTIsTsnM/edit?gid=0#gid=0) → task on Jira (CJT) (https://vendasta.jira.com/jira/software/projects/CJT/boards/1790?jql=) → owners update knowledge → bot responds correctly.
+
+This keeps the VS Internal Bot aligned with current SOPs and Guru knowledge and ensures corrections are tracked and applied at the source.

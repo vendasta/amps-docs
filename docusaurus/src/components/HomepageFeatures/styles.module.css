@@ -22,6 +22,10 @@
   color: var(--ifm-color-primary);
 }
 
+:global(html[data-theme='dark']) .featureIconWrap {
+  color: var(--ifm-color-primary-light);
+}
+
 .featureIcon {
   width: 56px;
   height: 56px;

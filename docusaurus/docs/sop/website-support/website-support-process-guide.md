@@ -1,6 +1,6 @@
 ---
 title: Website Support Process Guide
-sidebar_label: "1. Website Support Process Guide"
+sidebar_label: "Website Support Process Guide"
 sidebar_position: 1
 ---
 
