@@ -6,8 +6,6 @@ sidebar_position: 3
 
 # Apple Business Connect (ABC) Client Management - SOP
 
-<div class="listings-sop-doc sop-data-tables sop-data-tables--green-dark">
-
 ## Table of Contents
 
 - [**Objective**](#objective)
@@ -23,39 +21,40 @@ sidebar_position: 3
 
 ## Objective
 
-| Goal | Details |
-| --- | --- |
-| **Standardize** ABC claiming, verification, and ongoing management | Use the Broadly **Company** account and **API** where possible for streamlined access. |
+To provide a standardized process for the Broadly team to claim, verify, and manage client business listings using our Apple Business Connect (ABC) Company Account, leveraging our API for streamlined access.
+
+---
 
 ## Section 1: Account Access & Setup
 
 ### 1.1 Where to Log In
 
-| Field | Value |
-| --- | --- |
-| **Portal** | [businessconnect.apple.com](https://businessconnect.apple.com/) |
-| **Login** | Official Broadly (or company) **Apple ID** |
+**Portal:** https://businessconnect.apple.com/
+
+**Login:** Use your official Broadly (or company-provided) Apple ID.
 
 ### 1.2 Accepting Your Team Invitation
 
-New members joining the Broadly **Company** account.
+This is for new team members being added to the Broadly "Company" account.
 
-| No. | Stage |
-| --- | --- |
-| 1 | Email invite from **Apple Business Connect** — open link. |
-| 2 | Sign in with (or create) Apple ID tied to **company email**. |
-| 3 | Manager confirms role (e.g. Brand Manager, Company Manager). |
+1. You will receive an email invitation from "Apple Business Connect."
+2. Click the link in the email to accept the invitation.
+3. You must sign in with (or create) an Apple ID associated with your company email address.
+4. Once accepted, your Company Manager or Administrator will confirm your role (e.g., "Brand Manager" or "Company Manager").
+
+---
 
 ## Section 2: Brand Selection & Navigation
 
-Two brands: **Digital Marketing Services** and **Broadly Teams** — use the right one every session.
+This is the first step you take every time you log in. Our Company Account has two brands: **"Digital Marketing Services"** and **"Broadly Teams."**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Land on **Company** dashboard. |
-| 2 | Left nav → **Brands**. |
-| 3 | Choose **Broadly Teams** for **all client** location work. |
-| 4 | Do **not** use **Digital Marketing Services** for clients (internal marketing only). |
+**Standard Procedure:**
+
+1. After logging in, you will land on the "Company" dashboard.
+2. In the left-hand navigation, click on **Brands**.
+3. You will see "Digital Marketing Services" and "Broadly Teams."
+4. **Always select the "Broadly Teams" brand** for all client location management. This brand is designated for our agency's client portfolio.
+5. *(The "Digital Marketing Services" brand is for our own company's marketing presence and should not be used for client listings.)*
 
 ---
 
@@ -203,5 +202,3 @@ Phone call: instant. Document review: Apple states up to 5 business days, but it
 
 **Q: I created a brand new listing for a new client. How long until it shows on Apple Maps?**  
 Set client expectations. After it's verified, it can take anywhere from 24 hours to two weeks for a brand new location to be fully indexed and start appearing in public Apple Maps searches.
-
-</div>

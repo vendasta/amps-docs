@@ -28,33 +28,6 @@ const config: Config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Load fonts via <link> (not @import in CSS) so a slow/blocked fonts.googleapis.com
-  // cannot stall parsing of the rest of custom.css and leave a blank page.
-  headTags: [
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://fonts.googleapis.com',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://fonts.gstatic.com',
-        crossorigin: 'anonymous',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap',
-      },
-    },
-  ],
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -92,8 +65,14 @@ const config: Config = {
         alt: 'Vendasta Logo',
         src: 'img/vendasta-logo.png',
       },
-      /* Docs are reached via sidebar on /docs and “Get Started” on the home page */
-      items: [],
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Tutorial',
+        },
+      ],
     },
     footer: {
       style: 'dark',
@@ -103,7 +82,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs',
+              to: '/docs/intro',
             },
           ],
         },

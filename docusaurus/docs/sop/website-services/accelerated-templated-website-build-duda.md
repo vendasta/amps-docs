@@ -1,10 +1,8 @@
 ---
 title: Accelerated Templated Website Build (Duda)
-sidebar_label: "Accelerated Templated Website Build (Duda)"
+sidebar_label: "1. Accelerated Templated Website Build (Duda)"
 sidebar_position: 1
 ---
-
-<div class="website-services-doc sop-data-tables sop-data-tables--violet">
 
 # Accelerated Templated Website Build (Duda)
 
@@ -31,40 +29,40 @@ sidebar_position: 1
 
 **Vendasta Services: Website Fulfillment via Website Developers and Quality Specialists**
 
-### Procedure outline (standard)
+**Procedure Steps:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Team Lead: Assign the Developer/QA and process the order |
-| 2 | QA: Onboard Call (onboarding checklist) |
-| 3 | QA: Communicate the First Mock Due Date |
-| 4 | Designer: Review - Everything |
-| 5 | Designer: Launch Duda |
-| 6 | Designer: General Customization |
-| 7 | Designer: Business Content |
-| 8 | Designer: SEO |
-| 9 | Designer: Building Your Pages (Form Creation; Inbox-Pro & Reviews Widget Pro; importing blogs) |
-| 10 | Designer/QA: Final settings to change after build |
-| 11 | Designer: Receiving revisions and communicating the due date |
-| 12 | Designer/QA: Completing Revisions |
-| 13 | QA: Launching Website |
-| 14 | Designer/QA: Annual Website Rebuilds |
+  1. Team Lead: Assign the Developer/QA and process the order
+  2. QA: Onboard Call
+     1. Onboarding Checklist
+  3. QA: Communicate the First Mock Due Date
+  4. Designer: Review - Everything
+  5. Designer: Launch Duda
+  6. Designer: General Customization
+  7. Designer: Business Content
+  8. Designer: SEO
+  9. Designer: Building Your Pages
+     1. Form Creation
+     2. Inbox-Pro, Reviews Widget Pro
+     3. Importing Blogs
+  10. Designer/QA: Final settings to change after build
+  11. Designer: Receiving revisions and communicating the due date
+  12. Designer/QA: Completing Revisions
+  13. QA: Launching Website
+  14. Designer/QA: Annual Website Rebuilds
 
-### Procedure outline (PRBS)
+**Procedure Steps (PRBS)**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Team Lead: Assign the Developer/QA and process the order |
-| 2 | QA: Communicate the First Mock Due Date ([Google Doc](https://docs.google.com/document/u/0/d/1klg8t3h1Kl4M7WC06sYCHP95bLOTxZK1nBIXBQVuwDw/edit)) |
-| 3 | Designer: Launch Duda |
-| 4 | Designer: General Customization |
-| 5 | Designer: Business Content |
-| 6 | Designer: SEO |
-| 7 | Build website with AI |
-| 8 | Designer/QA: Final settings to change after build |
-| 9 | Designer: Receiving revisions and communicating the due date |
-| 10 | Designer/QA: Completing Revisions |
-| 11 | QA: Launching Website |
+  1. Team Lead: Assign the Developer/QA and process the order
+  2. QA: [Communicate the First Mock Due Date](https://docs.google.com/document/u/0/d/1klg8t3h1Kl4M7WC06sYCHP95bLOTxZK1nBIXBQVuwDw/edit)
+  3. Designer: Launch Duda
+  4. Designer: General Customization
+  5. Designer: Business Content
+  6. Designer: SEO
+  7. [Build website with AI]
+  8. Designer/QA: Final settings to change after build
+  9. Designer: Receiving revisions and communicating the due date
+  10. Designer/QA: Completing Revisions
+  11. QA: Launching Website
 
 ## Team Lead: Assign the Developer/QA and process the order {#team-lead-assign-the-developerqa-and-process-the-order}
 
@@ -301,7 +299,7 @@ Go to SEO & Settings tabs to configure the following:
      1. Connect a domain - Publish the site on Duda with a custom domain. Ensure to add “www” before the domain name. For example, a domain name “[example.com](http://example.com)” should be entered as “[www.example.com](http://www.example.com)”.
      2. Update DNS record - Visit the domain registrar website and add the following records. Any pre-existing duplicate record should be deleted. [See details here](https://support.duda.co/hc/en-us/articles/26520132463383-Make-Your-Site-Live-Initial-Steps-and-DNS-Record-Setup).
 
-**Name**|  _Host: www_ _Points to:_[_s.multiscreensite.com_](http://s.multiscreensite.com)  
+**CNAME**|  _Host: www_ _Points to:_[_s.multiscreensite.com_](http://s.multiscreensite.com)  
 ---|---  
 **A Records**| **First A Record:** Host/Alias: @Target/Destination: 35.172.94.1**Second A Record:** Host/Alias: @Target/Destination: 100.24.208.97  
 ---|---  
@@ -314,15 +312,12 @@ Go to SEO & Settings tabs to configure the following:
 
 ## Designer/QA: Annual Website Rebuilds {#designerqa-annual-website-rebuilds}
 
-Annual website rebuild should follow the standard website build and QA process.
+Annual website rebuild should follow the standard website build and QA process. 
+     1. **Client Communication** \- All annual website redesigns need to have an onboarding call attended by a designer or QA, similar to the standard website design OB call.
+     2. **VTM task Assignment** \- A website build task and QA task need to be created and assigned to the designer and QA team member. 
+     3. **QA Error Log** \- A rebuild website task should follow the standard process of updating the fulfillment and QA error log.
+     4. **Timeline** \- Annual redesign should follow the standard website design timeline. The designer will decide a due date for a website with 20+ pages. 
 
-| No. | What to cover |
-| --- | --- |
-| 1 | **Client communication** (onboarding call with designer or QA — same idea as standard OB call) |
-| 2 | **VTM task assignment** (create website build + QA tasks; assign designer and QA) |
-| 3 | **QA error log** (standard fulfillment + QA error log updates) |
-| 4 | **Timeline** (standard design timeline; designer sets due date for 20+ pages) |
+  
 
 _If you have questions, contact MS Cohort Developers._
-
-</div>

@@ -1,10 +1,8 @@
 ---
 title: Express Website Build (Divi)
-sidebar_label: "Express Website Build (Divi)"
+sidebar_label: "2. Express Website Build (Divi)"
 sidebar_position: 2
 ---
-
-<div class="website-services-doc sop-data-tables sop-data-tables--violet">
 
 # Express Website Build (Divi)
 
@@ -33,53 +31,59 @@ sidebar_position: 2
 
 **Vendasta Services: Website Fulfillment via Website Developers and Quality Specialists**
 
-### Procedure outline
+**Procedure Steps**
 
-#### Administrative (pre-build)
+**Administrative (Pre-build)**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Team Lead: Assign the Developer/QA, process the order, and set the due date |
-| 2 | Developer: Review - Everything |
-| 3 | Developer: Launch WordPress Hosting Pro (restrict access to development site) |
+  1. Team Lead: Assign the Developer/QA, process the order, and set the due date 
+  2. Developer: Review - Everything
+  3. Developer: Launch WordPress Hosting Pro
+     1. Restricting access to the development site
 
-#### Backend set-up
+**Backend Set-up**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Developer: Update - Everything (WordPress; themes; plugins) |
-| 2 | Developer: Individual Plugin Settings (Flying Scripts; Preload Link; Yoast SEO; Gravity forms) |
-| 3 | Developer: Divi Theme Options |
-| 4 | Developer: Appearance → Theme File Editor |
-| 5 | Developer: Theme Customizer Settings |
+  1. Developer: Update - Everything
+     1. WordPress
+     2. Themes
+     3. Plugins
+  2. Developer: Individual Plugin Settings
+     1. Flying Scripts
+     2. Preload Link
+     3. Yoast SEO
+     4. Gravity forms
+  3. Developer: Divi Theme Options
+  4. Developer: Appearance > Theme File Editor
+  5. Developer: Theme Customizer Settings
 
-#### Front-end set-up
+**Front-end Set-up**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Developer: Generate Website with AI |
-| 2 | Developer: Revising Your Pages (Vendasta CRM form; CRM CSS; multi-form; Divi Library; meta titles/descriptions; WebP; alt text; CSS tips) |
-| 3 | Developer: Final settings to change after the build |
-| 4 | Developer: Last tasks before the site is finished |
-| 5 | Developer: Send the first mock |
+  1. Developer: Generate Website with AI
+  2. Developer: Revising Your Pages
+     1. Vendasta CRM Form
+     2. CRM Forms CSS
+     3. Run Multiple CRM Forms
+     4. Divi Library
+     5. Meta titles/descriptions
+     6. Image Compression/Webp Conversion
+     7. Alt text
+     8. CSS Tips
+  3. Developer: Final settings to change after the build
+  4. Developer: Last tasks before the site is finished
+  5. Developer: Send the first mock
 
-#### Revisions
+**Revisions**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Developer: Receiving revisions and communicating the due date for the Second Mock |
-| 2 | Developer: Completing Revisions |
-| 3 | Developer: Transitioning to Website Support |
-| 4 | Team Lead: Approving Website Support |
+  1. Developer: Receiving revisions and communicating the due date for the Second Mock
+  2. Developer: Completing Revisions
+  3. Developer: Transitioning to Website Support
+  4. Team Lead: Approving Website Support
 
-### Speed improvements
+**Speed Improvements:**
 
-| No. | Action |
-| --- | --- |
-| 1 | Install Speed Improvements child theme |
-| 2 | Install Flying Scripts |
-| 3 | Edit the preload link script |
-| 4 | Image compressor and converter to WebP |
+  1. Install Speed Improvements Child Theme
+  2. Install Flying Scripts
+  3. Edit the preload link script
+  4. Image compressor and converter to WebP
 
 ## Team Lead: Assign the Developer/QA and process the order {#team-lead-assign-the-developerqa-and-process-the-order}
 
@@ -680,5 +684,3 @@ Meta Description: [paste web copy from the page and summarize in up to 156 chara
 ![](/img/sop-website-services/express-website-build-divi/23.png)   
 
 _If you have questions, contact MS Cohort Developers._
-
-</div>

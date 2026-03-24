@@ -1,10 +1,8 @@
 ---
 title: Templated Website Build (Divi)
-sidebar_label: "Templated Website Build (Divi)"
+sidebar_label: "3. Templated Website Build (Divi)"
 sidebar_position: 3
 ---
-
-<div class="website-services-doc sop-data-tables sop-data-tables--violet">
 
 # Templated Website Build (Divi)
 
@@ -32,38 +30,63 @@ sidebar_position: 3
 
 **Vendasta Services: Website Fulfillment via Website Developers and Quality Specialists**
 
-### Procedure outline
+**Procedure Steps**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Team Lead: Assign the Developer/QA and process order |
-| 2 | QA: Onboard Call (onboarding checklist) |
-| 3 | QA: Communicate the First Mock Due Date |
-| 4 | Designer/QA: Review - Everything |
-| 5 | Designer: Launch WordPress Hosting Pro (MS template / non-MS / Divi Plus; restrict dev site access) |
-| 6 | Designer: Update - Everything (WordPress; themes; plugins) |
-| 7 | Designer: Individual Plugin Settings (Divi Booster, Flying Pages & Scripts, Preload Link, Yoast SEO, Gravity forms, One-Click Accessibility, Amelia, OMGF) |
-| 8 | Designer: Divi Theme Options |
-| 9 | Designer: Appearance → Theme File Editor / Divi Theme Builder global footer |
-| 10 | Designer: Theme Customizer Settings |
-| 11 | Designer: Building Your Pages (CRM: HN43 SMTP, CSS, multi-form; global presets & colors; Yoast + meta + SEO schema; WebP; alt text; CSS tips) |
-| 12 | Designer: Final settings to change after the build |
-| 13 | QA/Designer: Last tasks before the site is finished |
-| 14 | Designer: Receiving revisions and communicating the due date for the Second Mock |
-| 15 | Designer: Completing Revisions |
-| 16 | QA: Transitioning to Website Support |
-| 17 | Team Lead: Approving Website Support |
+  1. Team Lead: Assign the Developer/QA and process order 
+  2. QA: Onboard Call
+     1. Onboarding Checklist
+  3. QA: Communicate the First Mock Due Date
+  4. Designer/QA: Review - Everything
+  5. Designer: Launch WordPress Hosting Pro
+     1. If the chosen template is an MS template
+     2. If the template is not an MS template
+     3. If it's a Divi Plus template
+     4. Restricting access to the development site
+  6. Designer: Update - Everything
+     1. WordPress
+     2. Themes
+     3. Plugins
+  7. Designer: Individual Plugin Settings
+     1. Divi Booster
+     2. Flying Pages
+     3. Flying Scripts
+     4. Preload Link
+     5. Yoast SEO
+     6. Gravity forms
+     7. One-Click Accessibility
+     8. Amelia
+     9. OMGF
+  8. Designer: Divi Theme Options
+  9. Designer: Appearance > Theme File Editor/Divi Theme Builder Global Footer
+  10. Designer: Theme Customizer Settings
+  11. Designer: Building Your Pages
+     1. Vendasta CRM Form
+        1. **HN43 SMTP set-up**
+        2. CRM Forms CSS
+        3. Run Multiple CRM Forms
+     2. Global Presets
+     3. Global Colors
+     4. SEO/Yoast page set-up
+        1. Page name/meta information
+        2. **SEO Schema**
+     5. Image Compression/Webp Conversion
+     6. Alt text
+     7. CSS Tips
+  12. Designer: Final settings to change after the build
+  13. QA/Designer: Last tasks before the site is finished
+  14. Designer: Receiving revisions and communicating the due date for the Second Mock
+  15. Designer: Completing Revisions
+  16. QA: Transitioning to Website Support
+  17. Team Lead: Approving Website Support
 
-### Speed improvements
+**Speed Improvements:**
 
-| No. | Action |
-| --- | --- |
-| 1 | Install Speed Improvements child theme |
-| 2 | Install Flying Pages |
-| 3 | Install Flying Scripts |
-| 4 | Edit the preload link script |
-| 5 | Image compressor and converter to WebP |
-| 6 | Video compressor |
+  1. Install Speed Improvements Child Theme
+  2. Install Flying Pages
+  3. Install Flying Scripts
+  4. Edit the preload link script
+  5. Image compressor and converter to WebP
+  6. Video compressor
 
 ## Team Lead: Assign the Developer/QA and process the order {#team-lead-assign-the-developerqa-and-process-the-order}
 
@@ -740,5 +763,3 @@ setTimeout(fixFormLocations, 2000);
 ![](/img/sop-website-services/templated-website-build-divi/26.png)   
 
 _If you have questions, contact MS Cohort Developers._
-
-</div>

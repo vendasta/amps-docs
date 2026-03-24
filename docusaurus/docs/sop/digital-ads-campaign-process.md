@@ -6,7 +6,6 @@ sidebar_position: 1
 
 # Digital Ads - Campaign Process
 
-<div class="digital-ads-campaign-doc sop-data-tables sop-data-tables--royal-light-blue">
 
 ## Table of Contents
 
@@ -45,80 +44,67 @@ sidebar_position: 1
 
 ---
 
-### Important checklist to follow
+**Important checklist to follow**
 
-| No. | Resource |
-| --- | --- |
-| 1 | [Campaign production checklist](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1167792690) |
-| 2 | [Ad Creation Template](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1383358881) |
-| 3 | [Existing Ad Copies for Reference](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=651893632) |
-| 4 | [Optimization Checklist](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1920966515) |
-| 5 | [Campaign Optimization Template](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=651893632) |
-| 6 | [VMKA Tasks & Process Flow](https://docs.google.com/document/d/1oZi6KOhhfks0o0CkKxXWvCQLC3to2yh6H0kNyA1P8yc/edit) |
-| 7 | [Dashboards](https://docs.google.com/document/d/1oWd6FfrytCr1zv7uRQxI0fdrX5gVjEYaJq1k6B6Ady8/edit) |
-| 8 | [Timesheet](https://docs.google.com/spreadsheets/d/1ALG2qkRZGJGwx3-b53kTfgz0Zq62J_Yr7dUPqt_PqBU/edit#gid=0) |
-| 9 | [Landing page Checklist](https://docs.google.com/spreadsheets/d/1HHrugdASwkeM2mxmBTudnRCXAH2KrYvwAZ-0lA8NMhk/edit#gid=0) |
-| 10 | [GA4 training](https://docs.google.com/document/d/1IQu8pdO5OR0FpYJO0ehH8JSQQlKhJHrEVQF-A3Dk5y8/edit#) |
-| 11 | [Campaign Best Practices](https://docs.google.com/document/d/1mpTGeqnux0enqp2K6yTBflCORhnK0UD-WDUjR5R6Rgs/edit) |
+- [Campaign production checklist](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1167792690)
+- [Ad Creation Template](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1383358881)
+- [Existing Ad Copies for Reference](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=651893632)
+- [Optimization Checklist](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=1920966515)
+- [Campaign Optimization Template](https://docs.google.com/spreadsheets/d/1CHyhigFSE62jVBvuNClVoF89iNQLhmcUJAXsTaTSyqw/edit#gid=651893632)
+- [VMKA Tasks & Process Flow](https://docs.google.com/document/d/1oZi6KOhhfks0o0CkKxXWvCQLC3to2yh6H0kNyA1P8yc/edit)
+- [Dashboards](https://docs.google.com/document/d/1oWd6FfrytCr1zv7uRQxI0fdrX5gVjEYaJq1k6B6Ady8/edit)
+- [Timesheet](https://docs.google.com/spreadsheets/d/1ALG2qkRZGJGwx3-b53kTfgz0Zq62J_Yr7dUPqt_PqBU/edit#gid=0)
+- [Landing page Checklist](https://docs.google.com/spreadsheets/d/1HHrugdASwkeM2mxmBTudnRCXAH2KrYvwAZ-0lA8NMhk/edit#gid=0)
+- [GA4 training](https://docs.google.com/document/d/1IQu8pdO5OR0FpYJO0ehH8JSQQlKhJHrEVQF-A3Dk5y8/edit#)
+- [Campaign Best Practices](https://docs.google.com/document/d/1mpTGeqnux0enqp2K6yTBflCORhnK0UD-WDUjR5R6Rgs/edit)
 
 ## Conversion Rates of Currencies {#conversion-rates-of-currencies}
 
-| Area | Rate / pricing |
-| --- | --- |
-| **Subscriptions** — CAD vs USD | 1.25 CAD per 1 USD |
-| **Subscriptions** — AUD vs CAD | 0.98 AUD per 1 CAD |
-| **Marketing Services** products | CAD and AUD both **1.25× USD** |
-| **Other O&O** and **3rd-party vendor** products | CAD and AUD both **1.4× USD** |
-| **Snapshots / Refreshes** (new subscription tiers) | USD **$2**, CAD **$3**, AUD **$4** |
-| **Snapshots / Refreshes** (FREE tier) | **$2** in all currencies _(MSRP update pending)_ |
+Subscriptions have CAD at 1.25 of USD, and AUD at 0.98 from CAD; Marketing Services products have both CAD/AUD at 1.25 of USD; All other O&O and 3rd Party Vendor products have CAD/AUD at 1.4 of USD; Snapshots/Refreshes - USD ($2), CAD ($3), AUD ($4) for new subscription tiers, but still $2 for all currencies on FREE (to be updated to MSRP shortly).
 
 ---
   
 ## **Partner Center**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Go to [Partner Center](https://partners.vendasta.com/) |
-| 2 | Keep the mouse cursor inside the dashboard and press **/** (backslash) to switch between partners |
-| 3 | Click **Switch partners** |
-| 4 | Enter the PID you want to check |
-| 5 | On the right-hand side, review what’s available |
-| 6 | Under **Business**, find the correct account name and click the account |
+- Go to [Partner Center](https://partners.vendasta.com/)
+- Keep the mouse cursor inside the dashboard and press backslash (/) to switch between partners.
+- Click switch partners
+- Place the PID you want to check
+- On the right-hand side, you can view the following:
+- Check the accounts under Business >> Put the correct account name and click on the name of the account.
 
 ![](/img/sop-digital-ads-campaign/01.png)
 
-| No. | Stage |
-| --- | --- |
-| 7 | Confirm active products (see screenshot) |
-| 8 | Go to **Administration** → **Billing** |
+- On the above screenshot you will be able to see the active products.
+- Go to administration >> Billing >>
+
+
 
 ![](/img/sop-digital-ads-campaign/02.png)
 
-| No. | Stage |
-| --- | --- |
-| 9 | **My billing** → **By account** — remove start and end dates |
-| 10 | Search for the account → click the highlighted numbers |
+- Click on my billing >> By account >> Remove the start and end date.
+- Search for the account you want to >> Click on the numbers as highlighted
 
 ![](/img/sop-digital-ads-campaign/03.png)
 
-| No. | Stage |
-| --- | --- |
-| 11 | Review paid product details (helps verify monthly payments) |
+- You can see the paid product details. This will be helpful to see whether we are receiving payments on a monthly basis.
+
+
 
 ![](/img/sop-digital-ads-campaign/04.png)
 
 ## **Google Ad Production Process**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Create a new account per MC Google Connect instructions |
-| 2 | Update the campaign structure |
-| 3 | Specialists create ad copies on the MC platform |
-| 4 | Add targeted keywords and negative keywords |
-| 5 | Specialist assigns the ticket to QA (full setup, ads, and keywords) |
-| 6 | QA reviews ad copies and applies changes if needed |
-| 7 | QA confirms changes to the Specialist and sends the Excel [template](https://docs.google.com/spreadsheets/d/1F3LZKE-WWX61NvLU0sViDHz1BOvzVQockgR5f8BDjAM/edit#gid=208977167) to comms for approval |
-| 8 | After approval, specialists recheck copy and keywords and go live (if copy/keywords change, specialists edit and re-assign QA; after QA confirmation, go live and update ticket & VTM) |
+- Create a new account as per the instructions provided (MC Google Connect)
+- Update the structure of the campaign
+- Specialists Create the adcopies on the MC platform
+- Add relevant, targeted keywords, and negative keywords to the campaign
+- Specialists assign the ticket to the QA team to review the campaign's whole setup along with ads & keywords.
+- The QA team rechecks the adcopies and makes the changes if required.
+- QA confirms the Specialist about the changes made and sends the downloadable Excel sheet [template](https://docs.google.com/spreadsheets/d/1F3LZKE-WWX61NvLU0sViDHz1BOvzVQockgR5f8BDjAM/edit#gid=208977167) to the comms team for approval.
+- Once approval is received, specialists recheck the copies and keywords and make the campaign live.
+  - Note: If there are any changes to the copy or keywords specialists make the edits and re-assign the QA team to recheck the edits.
+  - Once confirmation is received from the QA team, specialists make the campaign live and update the ticket & VTM. 
 
 
 
@@ -238,11 +224,11 @@ sidebar_position: 1
 
 #### **Three Major Benefits of Google Connect Setup:**
 
-| No. | Benefit |
-| --- | --- |
-| 1 | Easy customization (segments, ad groups, ads, location targets, and more) |
-| 2 | Connect accounts can be edited in Google Ads UI or third-party editors (e.g. Google Ads Editor) while still linked to AdVantage |
-| 3 | Standard accounts: edits only in AdVantage UI or ROAR API (one-way; AdVantage is source of truth) |
+- Easy customization available (Adding segments, ad groups, ads, location target) and lots more
+- An AdVantage Connect account, unlike a Standard account, can be edited directly in the channel (e.g., Google Ads UI) or a third-party editor (e.g., Google Ads Editor) while still being linked to and managed by AdVantage.
+- In a Standard account, campaigns and segments can only be edited within the AdVantage UI or via the ROAR API. This is a one-way relationship, where AdVantage is considered the source of truth.
+
+
 
 ![](/img/sop-digital-ads-campaign/27.jpg)
 
@@ -252,118 +238,129 @@ sidebar_position: 1
 
 Google Connect continues to offer AdVantage's many reseller-oriented features that cannot be found in Google, including:
 
-| No. | Feature |
-| --- | --- |
-| 1 | Taxonomies for search advertising |
-| 2 | Sales-oriented estimator |
-| 3 | Flexible budget-cycle support with reporting in retail amounts |
-| 4 | Google Analytics integration (easy setup; automated GA conversions to Google Ads) |
-| 5 | Notifications (diagnostics and disapprovals) |
-| 6 | User role management |
-| 7 | Localized merchant reporting |
+- Taxonomies for search advertising
+- Sales-oriented estimator
+- Flexible budget-cycle support with reporting in retail amounts
+- Google Analytics integration with easy setup and automated uploads of Google Analytics conversions to Google Ads
+- Notifications (diagnostics and disapprovals)
+- User role management
+- Localized merchant reporting
+
+
 
 **New Benefits for Connect Accounts**
 
-| No. | Benefit |
-| --- | --- |
-| 1 | Google Ads UI for settings not in AdVantage UI/API (e.g. image extensions, auto-applied recommendations) |
-| 2 | Google Ads “beta” features not in the Google Ads API |
-| 3 | Non–MatchCraft editing tools (e.g. Google Ads Editor) |
-| 4 | Google Video campaigns (reporting-only segment; API limits on create/edit) |
-| 5 | Link individual Google Ads accounts to AdVantage (vs. Wasabi migration) |
+- Connect accounts can use the Google Ads UI to access targeting or detailed Google Ads settings that are not supported via the AdVantage UI or API (like image extensions or Google Ads auto-applied recommendations)
+- Connect accounts can use Google Ads "beta" features that are not supported in the Google Ads API (features that are not supported in the Google Ads API cannot be built into AdVantage)
+- Connect accounts can use non-MatchCraft tools to edit (e.g. Google Ads Editors)
+- Support for Google Video campaigns (this is a reporting-only segment type due to Google limitations that prevent creating and/or editing Google Video campaigns in the Google Ads API)
+- The ability to link individual Google Ads accounts to AdVantage (instead of using the Wasabi migration process)
+
+
 
 **Future Benefits Coming to Connect Accounts**
 
-| No. | Roadmap |
-| --- | --- |
-| 1 | Segments for more Google campaign types (Display, Shopping, Performance Max, etc.) |
-| 2 | Mix Google Ads with Facebook, Bing, Yelp, and other channels |
+- The ability to create segments using other Google campaign types (like Google Display, Google Shopping, Google Performance Max, etc.)
+- The ability to mix Google Ads with other channels like Facebook, Bing, and Yelp
+
+
 
 ## **MC Installation Steps**
 
-### Step 1
+**Step1:** 
 
-| No. | Stage |
-| --- | --- |
-| 1 | Click **New Account** (left side) |
-| 2 | Enter campaign name (helps future reviews) |
-| 3 | Select market: Vendasta (USA), Vendasta CA, Vendasta AU, or Vendasta UK |
-| 4 | Click **OK** |
+- Click New Account on the left side of the screen. 
+- Provide the proper Campaign Name (This will be helpful to make the reviews in the future without any hassle. 
+- Select the market:
+- Vendasta (USA)
+- Vendasta CA (Canada)
+- Vendasta AU (Australia)
+- Vendasta UK (United Kingdom)
+- Click “OK” 
+
+
 
 ![](/img/sop-digital-ads-campaign/28.png)
 
-### Step 2
+**Step2:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Complete required fields: Account Name, **AGID** (required), Labels, Sales Rep (TL or manager), Campaign Manager |
-| 2 | **Skip Link Estimate** |
+- Fill in the required information in the second stage. 
+  - Account Name:
+  - AGID ID (The most important one to enter)
+  - Labels (Used for future reference)
+  - Sales Rep (Can select your TL name or Manager name)
+  - Campaign Manager (Can be anyone (Maybe yours too)
+  - **Skip Link Estimate**
+
+
 
 ![](/img/sop-digital-ads-campaign/29.png)
 
-### Step 3
+**Step3:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Account name format: e.g. `Absolute Solutions_Search` (Account_Source) |
-| 2 | Create account budget |
+- Type Proper Account name: Name of the Account_Source for Example Absolute Solutions_Search
+- Create Account Budget
+
+
 
 ![](/img/sop-digital-ads-campaign/30.png)
 
-### Step 4
+**Step4:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Ad segment name: `Accountname_Type of Campaign` |
-| 2 | Set campaign type and **Final URL** |
+- Enter Ad Segment Name (Accountname_Type of Campaign)
+- Type of the campaign: 
+- Final URL used for the campaign
+
+
 
 ![](/img/sop-digital-ads-campaign/31.png)
 
-### Step 5
+**Step5:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Review **Segment Info** for accuracy |
+Under the Segment Info you can see the information properly. 
 
 ![](/img/sop-digital-ads-campaign/32.png)
 
-### Step 6
+**Step6:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Create ad groups per campaign structure (clear naming for optimization and reporting) |
+- Select the ad groups and start creating ad groups
+- Add ad groups as per the campaign structure with proper naming convention(This will help other specialists in future optimizing and reporting. 
+
+
 
 ![](/img/sop-digital-ads-campaign/33.png)
 
-### Step 7
+**Step7:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Upload responsive ads via **Add** |
+- Upload the responsive ads using the add button
+
+
 
 ![](/img/sop-digital-ads-campaign/34.png)
 
-### Step 8
+**Step8:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Add approved keywords (often start phrase match; adjust to phrase or exact by performance) |
+- Place to add finally approved keywords. At an earlier stage keywords are added on phrase match, and based on the performance this can be changed either to phrase or exact match. 
+
+
 
 ![](/img/sop-digital-ads-campaign/35.png)
 
-### Step 9 — location target
+**Step9:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Set **Geographic targets** and **Geographic exclusions** |
+**Locations Target**
+
+- Add the locations under Geographic targets. And add the locations which need to be excluded under Geographic Exclusions. 
+
+
 
 ![](/img/sop-digital-ads-campaign/36.png)
 
-### Step 10 — extensions
+**Step10:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Extensions:** sitelinks, callouts, structured snippets |
+- Clicks the Extensions: Add the sitelink extensions, Call out extensions and structured Snippets. 
+
+
 
 ![](/img/sop-digital-ads-campaign/37.png)
 
@@ -375,37 +372,38 @@ UA-199828499-1
 
 ## Test Conversions using Sample GA Account:
 
-| No. | Stage |
-| --- | --- |
-| 1 | Create a Tag & Variable in GTM as **Test GA** |
-| 2 | Configure the conversions to track |
-| 3 | Use the landing page and test conversions |
-| 4 | Check **Realtime** in Analytics |
-| 5 | Confirm conversions fire correctly |
-| 6 | If using events, verify under **Realtime → Events** |
+- Create a Tag & Variable on GTM as Test GA 
+- Setup the conversions want to track
+- Use the landing page and test conversions.
+- Check the real time data of analytics
+- Check under conversions if its firing properly
+- If an event has been set up, check the events under Realtime. 
+
+
 
 ![](/img/sop-digital-ads-campaign/38.png)
 
 ## Google Analytics and GTM Integration
 
-| No. | Stage |
-| --- | --- |
-| 1 | Create a **Filtered View** (block internal IPs) |
+- Create a Filtered View on analytics
+  - Blocking internal IPs can be done through this account
+
+
 
 ![](/img/sop-digital-ads-campaign/39.png)
 
-| No. | Stage |
-| --- | --- |
-| 2 | Add website URL; create **Universal Analytics** (GA4 may follow later) |
-| 3 | Complete basics: business size, measurement type, create a view |
+- Add the Website URL and Select the Create Universal Analytics properly only (In future we may go with GA4 analytics)
+- Basic setups required like Business size, what type of measurements and create a view. 
+
+
 
 ![](/img/sop-digital-ads-campaign/40.png)
 
 ![](/img/sop-digital-ads-campaign/41.png)
 
-| No. | Stage |
-| --- | --- |
-| 4 | Copy the **UA** tracking code and keep it ready |
+- Once you create you will be able to get the tracking code information, take the UA Code and keep it ready. 
+
+
 
 ![](/img/sop-digital-ads-campaign/42.png)
 
@@ -413,53 +411,60 @@ Go to GTM (google tag manager) - [Tag Manager](https://marketingplatform.google.
 
 ![](/img/sop-digital-ads-campaign/43.png)
 
-| No. | Stage |
-| --- | --- |
-| 5 | **Variables** → New **User-Defined Variable** → paste UA code → save with a clear name |
+- Go to variables and click new under User-Defined Variables . Add the copied UA code in the variable section and save. Name the variable, which is easy to remember. 
+
+
 
 ![](/img/sop-digital-ads-campaign/44.png)
 
-| No. | Stage |
-| --- | --- |
-| 6 | **Tags** → New → **Google Analytics: Universal Analytics** → Track type **Page View** |
-| 7 | Analytics Settings → use saved UA variable |
-| 8 | **Triggering** → **All Pages** (site-wide) |
-| 9 | **Save** → **Publish** workspace _(GA won’t work until published)_ |
-| 10 | After publish, confirm Realtime in Analytics; spot-check multiple pages |
+- Under Tag click new tag. Click Tag type >> Select Google Analytics: Universal Analytics
+- Select the track type to Page View
+- Select the Analytics Settings (Saved Variable)
+- Select Triggering >> All pages (This tag should cover and track all the pages of the website)
+- Click save >> Publish Workspace
+  - Note: If the Publish button is not done then the GA Tracking will not work. 
+- After Publish is done go to **Analytics and** check if the real time is working. 
+  - Remember to check a few pages on the website to check whether all pages have been tracked properly after GTM integration. 
+
+
 
 ![](/img/sop-digital-ads-campaign/45.png)
 
 ### **Goals Tracking Without Thankyou page (Same page thank you message)**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Open the landing page |
-| 2 | Identify the button or element to count as a conversion |
+- Go to the landing page of the website
+- Fix the button you want to track conversions
 
-**GTM setup**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Variables** → enable built-ins: **Configure** → enable click and form variables |
-| 2 | **New Tag** → **Event** → set Category and Action |
-| 3 | **Analytics** settings → select UA variable |
-| 4 | **Triggering** → **Element Visibility** → CSS selector from thank-you message (Inspect → Copy selector) |
-| 5 | Enable **Observe DOM changes** |
+
+**GTM Setup**
+
+- Go to GTM >> Click >> Variables
+- Switch on: Click the built in variables >> Configure >> Click all the elements under click and forms. 
+- Fix the button you want to track conversions
+- New Tag >> Track Type Event
+- Under category >> Provide a name, which you can identify easier
+- Similar to the category name of the Action can be provided with proper name, which can be recognised soon
+- Select the analytics setting
+- Triggering >> Click (+) - Element Visibility >> CSS Selector >> Select the entire thank you message >> right click >> Inspect >> Select the code >> right click & Copy >> Copy Selector and update on the GTM. 
+- Switch on Observe DOM changes
+
+
 
 ![](/img/sop-digital-ads-campaign/46.png)
 
 ### **Goals Tracking With Thank you page**
 
-**GTM setup**
+**GTM Setup:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **New Tag** → set Category and Action |
-| 2 | Select Analytics account |
-| 3 | **Trigger:** Page View → **Some Page Views** → **Page URL** contains thank-you URL |
-| 4 | Save and **Publish** |
+- Click Tag >> Add the category and Action name
+- Select the Analytics account
+- Tigger : Page view >> Some Page Views >> Page URL >> Thankyou URL
+- Save the tag and publish the workspace. 
 
-Note: If multiple forms use different thank-you pages, set up each accordingly.
+
+
+Note: Verify if there are multiple forms and each form has a different thank you page. 
 
 ## **Bing Ads Setup**
 
@@ -467,71 +472,67 @@ At the Account level under the “Details” tab and within the “Campaign Info
 
 ![](/img/sop-digital-ads-campaign/47.png)
 
-| No. | Stage |
-| --- | --- |
-| 1 | Open a **Segment** |
-| 2 | Under **Geographic Targets**, select targets for **Bing** |
-| 3 | Radius-based location: Google and Bing often both selected by default |
-| 4 | Engine-code location: pick **Google** or **Bing** explicitly |
-| 5 | Search area name → select Bing engine code → add to **Location Target** |
-| 6 | Repeat for other segments in the campaign |
+- Then navigate to the Segment level by clicking on any of the Segments.
+- “Geographic Targets” need to be selected for “Bing” Engines.
+- If the location is specified by radius, MC will have both Google & Bing selected by default.
+- If the location is specified by the engine code, we must select the engine (Google or Bing).
+- Type in the Area name and search for it and select the Bing Engine code and add them to the Location Target.
+- These settings need to be replicated in other Segments as well under the same Campaign.
+
+
 
 ![](/img/sop-digital-ads-campaign/48.png)
 
-| No. | Stage |
-| --- | --- |
-| 7 | **Pacing:** enable **Search Partner Network** (Google) or **Syndicated Search Partner Network** (Bing) as needed |
-| 8 | **Segment → Network Targeting** → set **Additional Bing Network Target** |
+- We are enabling the “Search Partner Network” for Google Engine if we are facing any Pacing issues. Likewise, we need to turn on the “Syndicated Search Partner Network” for Bing if there are any Pacing issues.
+- At the Segment level and under “Network Targeting” edit and select the “Additional Bing Network Target:”.
+
+
 
 ![](/img/sop-digital-ads-campaign/49.png)
 
 ## **Connecting Bing On Ad Intel:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Settings** → **Connections** |
+Under the “Settings” tab, Select “Connections”
 
 ![](/img/sop-digital-ads-campaign/50.png)
 
-| No. | Stage |
-| --- | --- |
-| 2 | **Connect** under **Microsoft Ads** |
+Select “Connect” in “Microsoft Ads”
 
 ![](/img/sop-digital-ads-campaign/51.png)
 
-| No. | Stage |
-| --- | --- |
-| 3 | Sign in → choose **Microsoft Ads Account** → search → select → **Connect** |
+Once you log in to the Bing Advertising Account, Select the “Microsoft Ads Account”.
+
+Search for the Account & Select the Account & Connect it.
 
 ![](/img/sop-digital-ads-campaign/52.png)
 
 ## **Bing Ads Conversion Tracking**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Log in to [Microsoft Advertising](https://ads.microsoft.com/cc/welcome/index) |
-| 2 | Select account → **Conversion tracking** → **UET Tags** |
-| 3 | **Create** → name and description |
-| 4 | Enable **Microsoft Clarity** (heatmaps / interactions) |
-| 5 | Install via **Tag Manager** |
+- Login to [Microsoft Advertising](https://ads.microsoft.com/cc/welcome/index)
+- Select the account you want to add UET Tags
+- Under conversion tracking click >> UET Tags
+- Click Create >> Add UET tag name >> UET tag description
+- Enable Microsoft Clarity (This will help us to see users interaction and heatmaps)
+- Install the code using Tag Manager
+
+
 
 ### **GTM Integration with Bing Analytics**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **New Tag** → **Microsoft Advertising Universal Event Tracking** |
+- Click New Tag >> Search for Microsoft Advertising Universal Event tracking
+
+
 
 ![](/img/sop-digital-ads-campaign/53.png)
 
-| No. | Stage |
-| --- | --- |
-| 2 | Paste **UET** from Bing |
+- Add the UET Tag picked from Bing Conversions
+
+
 
 ![](/img/sop-digital-ads-campaign/54.png)
 
-| No. | Stage |
-| --- | --- |
-| 3 | **Trigger** → **All pages** → **Save** → **Publish** |
+- Trigger >> All pages
+- Save and Publish
 
 
 
@@ -705,66 +706,74 @@ On each page where this event happens (for example, your order confirmation page
 
 ## **Marchex GTM integration**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Prefer GTM to avoid multiple on-site scripts |
-| 2 | **Tags** → **Custom HTML** → paste Marchex code |
-| 3 | **Triggering** → **All Pages** → use **DOM Ready** _(runs after document load)_ |
+- To avoid too many code installations on the website, Marchex can be easily integrated into GTM. 
+- Click Tags
+- Select Custom HTML 
+- Add the copied Marchex code into the HTML section
+- Click the Triggering section >> Select all pages
+- Select the **DOM ready** under the triggering section. 
+  - DOM Ready (used **to make a function available after the document is loaded**.)
+
+
 
 ![](/img/sop-digital-ads-campaign/82.png)
 
-| No. | Stage |
-| --- | --- |
-| 4 | **Save** → **Publish** workspace |
+**Step2:** Select Save and publish Workspace
 
 ![](/img/sop-digital-ads-campaign/83.png)
 
 ## **Ad Intel Installation**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Open Ad Intel (swap partner **PID** and **AGID** in the URL for the correct account) |
-| 2 | **Settings** → **Connections** → **Connect** (Google Ads) |
+- Load the below URL
+- Change the Partners PID and AGID alone to load the corresponding partner
+- Click the connection under settings
+- Select the Connect under Google ads
+
+
 
 [Ad Intel overview](https://www.advertisingintelligence.io/partner/TPMT/business/AG-GW8Q7PZ7JP/overview)
 
 ![](/img/sop-digital-ads-campaign/84.png)
 
-### Step 2 — Google Ads
+**Step2:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Authorize → **Allow** |
-| 2 | Select the correct Google Ads account → **Connect account** |
+- Authorize the account to select the Google ads >> Click allow
+- Select the id appropriate adwords account and click connect account
+
+
 
 ![](/img/sop-digital-ads-campaign/85.png)
 
-### Step 3 — Google Analytics
+**Step 3:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Analytics** section → **Connect** the GA property |
+**Google Analytics Integration**
+
+- For connecting Google Analytics accounts. Click connect from analytics section
+
+
 
 ![](/img/sop-digital-ads-campaign/86.png)
 
-### Step 4 — Marchex
+**Step 4:**
 
-| No. | Stage |
-| --- | --- |
-| 1 | If Marchex is on the order, connect Marchex in Ad Intelligence |
+**Marchex Integration**
+
+- If a partner ordered Marchex, it's required to connect Marchex with Ad Intelligence.
+
+
 
 ![](/img/sop-digital-ads-campaign/87.png)
 
-| No. | Stage |
-| --- | --- |
-| 2 | Connect **Facebook** and **Microsoft** the same way (pick the right accounts) |
+- Similarly the Facebook and Microsoft connections are done by selecting the appropriate account.
+
+
 
 #### **How to check if all the connections are working properly?**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Overview** for aggregate performance |
-| 2 | Drill into Analytics, Phone calls, Facebook ads, or Microsoft ads for channel detail |
+- Go to overview to check the overall performance
+- For individual performance click the analytics, Phone calls, facebook ads or Microsoft ads. 
+
+
 
 ![](/img/sop-digital-ads-campaign/88.png)
 
@@ -772,21 +781,21 @@ Dynamic Auto Ads Process Guide
 
 ### **Important**
 
-| No. | Rule |
-| --- | --- |
-| 1 | Generate and share **MotoMiner** reports with partners monthly |
-| 2 | **Order the catalog ASAP** on new Dyn Auto orders |
-| 3 | Retargeting code must be on the customer site for Dyn Auto to work |
-| 4 | **Never** mention MotoMiner in partner-facing comms or VTM |
-| 5 | Meta may flag “credit” category incorrectly if copy avoids financing/loans — **dispute every time**; if appeal fails, new ad + re-appeal; use **live chat** appeals (not “Request review”) |
+- Ensure MotoMiner Reports are generated and shared with partners every month.
+- Order the Catalog asap!
+- Customers must get the retargeting code installed on their site for their dynamic auto ads to function properly.
+- Never mention the existence of MotoMiner in any partner facing communications or vtm notes.
+- Meta will consistently flag these ads as special ad category “credit”. So long as we do not mention financing or auto loans in our ad copy this flag is incorrect. Do not accept this flag appeal and fight it with Meta every time it happens. If Meta rejects the appeal replace the ad with a new one with new ad copy and if rejected apply for appeal again.
+   - Appeal manually through live chat. Do not click the request review button. 
+
+
 
 ### **Ordering a Catalog**
 
-| No. | Stage |
-| --- | --- |
-| 1 | On new Dyn Auto orders, request catalog from MotoMiner immediately (turnaround) |
-| 2 | Email template to [vendastasupport@zerosum.ai](mailto:vendastasupport@zerosum.ai) _(create ad account first for ad account ID + Pixel ID; share pixel to BM per template)_ |
-| 3 | After MotoMiner confirms catalog is ready, continue production |
+- When an order for Dyn Auto Ads first comes in we need to order a catalog from MotoMiner asap to ensure we are meeting turnaround times.
+- This can be done by filling out the below template and sending it to ([vendastasupport@zerosum.ai](mailto:vendastasupport@zerosum.ai)).
+  - Note: You will need to create an ad account so you can grab its ad account ID and Pixel ID to share in the email. You do also need to share the pixel ID to their BM as mentioned at the end of the email template.
+- Once Motominer sends us an email confirming the catalog is ready we can proceed with production.
 
 
 
@@ -952,33 +961,39 @@ Browse through our great selection of affordable pre-owned vehicles!
 
 ### **Launching Dyn Auto**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Standard launch; account for **~50% MGMT fee** when setting budget in MatchCraft |
-| 2 | Start **90% traffic / 10% retargeting**; rebalance monthly by performance |
-| 3 | Pixel usually handled by MotoMiner — verify events still fire |
+- Mostly a standard launch, remember about 50% MGMT fee to ensure your budget is set correctly when connecting to MatchCraft. 
+- Start with a budget split of 90% traffic campaign / 10% retargeting campaign, can update this month to month during optimizations depending on performance.
+- No pixel setup should be needed as Motominer should have done all this but double check that all events are created.
+
+
 
 ### **Optimizing Dynamic Auto Ads**
 
-| No. | Guidance |
-| --- | --- |
-| 1 | Most optimization is automated |
-| 2 | **Under ~$0.60 CPC** with volume to site/vehicles = generally healthy |
-| 3 | Options: raise min spend on strong under-spending ad sets; shift budget traffic vs retargeting; new ad copy for tests (**≥ every 3 months** — copywriter or borrow winning copy); new LAA on traffic |
-| 4 | Creative changes limited to **vehicle set** — only when directed |
+- Optimizations for Dyn Auto Ads are generally fairly simple since so much is automated.
+- Generally if the campaign is brining in clicks for less then a $0.60 CPC the campaign is doing well. Our goal is to drive a large volume of traffic to their site and to view their vehicles.
+- Here is a list of common potential optimizations we can make to Dyn Auto Ad.
+  - Increase an ad sets min ad spend if it’s doing well but not spending much.
+  - Shift budget between the retargeting and traffic campaign based on which is preforming better.
+  - Introduce a new ad copy for split testing.
+    - Note: This should be done at least once every 3 months, assign to copywriter or use a successful ad copy from another dyn auto campaign.
+  - Introduce a new lookalike audience for split testing to the traffic campaign.
+- The only changes we can make to the ads creative is selecting a different vehicle set but should only do this when instructed.
+
+
 
 ### **Generating Monthly Reports**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Days 1–5** each month: MotoMiner reports to partner for all Dyn Auto clients; recurring VTM task |
-| 2 | First business day: VTM task per Dyn Auto campaign you manage |
-| 3 | Log in to [MotoMiner](https://motominer.com/) (credentials in Lifeline) |
-| 4 | Report = **full prior calendar month** (not billing cycle) |
-| 5 | Filename: `Dealership Name - Month Year` (**do not** include “MotoMiner” in the name) |
-| 6 | Upload PDF to Partner Center; attach in VTM → assign comms to email partner |
-| 7 | Create next month’s task for first business day |
-| 8 | Training: [Loom walkthrough](https://www.loom.com/share/b8154c632b6e4d8b978879a32cecdb1f) |
+- Within the first 5 days of the month we need to generate and send out the Motominer reports to the partner for all their Dyn Auto Ads clients. 
+  - Assign this as a monthly recurring task in vtm at the start of the month.
+- Quick summary of the steps required:
+  - Create a vtm task for yourself on the first business day of every month for any dynamic auto campaign you manage.
+  - Log in to Motominer https://motominer.com/ using credentials in the lifeline.
+  - Generate a report for the full previous calendar month not the billing cycle
+  - Save file name as "Dealership Name - Month Year" DO NOT leave Motominer in the file name.
+  - Upload the file to the account on partner center.
+  - In vtm task attach the pdf file as well and assign the vtm tag to the comms team member so they can email the report to the partner as well.
+  - Create next month's task for the first business day of that month (for future dyn auto campaign's we will make this part of the template).
+- Training Video: [Loom video](https://www.loom.com/share/b8154c632b6e4d8b978879a32cecdb1f)
 
 
 
@@ -1029,29 +1044,31 @@ MAN Marketing sheet - [Spreadsheet](https://docs.google.com/spreadsheets/d/1QDHV
 
 #### **Wordpress - Simple Method**
 
-| No. | Stage |
-| --- | --- |
-| 1 | WordPress admin → **Plugins** → **Add New** |
-| 2 | Search **Google Tag Manager** → **Install** “DuracellTomi’s Google Tag Manager for WordPress” |
-| 3 | **Settings** → **Google Tag Manager** → enter **GTM container ID** |
+- Log into your WordPress admin panel.
+- Go to Plugins / Add new.
+- Search for “Google Tag Manager.”
+- Click on “Install now” in the search results next to “DuracellTomi’s Google Tag Manager for WordPress.”
+- Now, go to Settings / Google Tag Manager and enter your GTM container ID.
+
+
 
 ![](/img/sop-digital-ads-campaign/98.png)
 
-**Other method**
+**Other Method:**
 
 **![](/img/sop-digital-ads-campaign/99.png)**
 
-**Theme Editor → `header.php`**
+**Go to Themed Editor >> header.php**
 
-Place the first GTM snippet under `<head>` and the second per Google’s instructions.
+Here you will find the head tag and the body tag. Let’s copy the first part of the code and place it beneath the opening head tag. 
 
 ![](/img/sop-digital-ads-campaign/100.png)
 
-| No. | Stage |
-| --- | --- |
-| 4 | **View page source** — confirm GTM loads on the site |
+- Once installed go to the Website source code >> Right click >> View source code >> Check if the code is installed properly on the website. 
 
-Note: Back up theme/code before you paste the GTM script.
+
+
+Note: Please take the backup of the code before you paste the GTM script
 
 ## **Shopify Integration: (Method 1)**
 
@@ -1085,75 +1102,93 @@ Note: Please take the backup of the code before you paste the GTM script
 
 ## **Bigcommerce GTM Installation**
 
-| No. | Stage |
-| --- | --- |
-| 1 | BigCommerce dashboard → **Advanced Settings** → **Web Analytics** |
-| 2 | **Google Analytics** tab → paste **GTM** snippet → **Save** |
+- Logging into your BigCommerce dashboard
+- Navigate to Advanced Settings
+- Select Web Analytics
+- Switch to the Google Analytics tab
+- Insert your GTM code in the text box
+- Click save
+
+
 
 ![](/img/sop-digital-ads-campaign/103.png)
 
-| No. | Stage |
-| --- | --- |
-| 3 | [tagmanager.google.com](https://tagmanager.google.com) — create account/container if needed (**Web** container for store URL) |
+- Go to https://tagmanager.google.com
+- Either create a new Google account or login to your existing account
+- Create a new GTM account and enter your account/business name, your country, and click continue
+- Name your Google Tag Manager container by putting the URL for your online store, choose “Web”, and click “Create”
+
+
 
 ### **Alternative Method**
 
-| No. | Stage |
-| --- | --- |
-| 1 | **Edit Theme Files** → **Templates** → **Layout** → `base.html` |
-| 2 | Paste GTM as high as possible inside `<head>` (best for firing on every page) |
+- Alternatively, you can also insert the code directly into the template files within the `<head></head>` tags manually. This is likely the best way to ensure the code is accurately triggered for every page that loads on your site. You can do this by:
+- Logging into your BigCommerce dashboard
+- Navigate to Edit Theme Files > Templates > Layout > base.html
+- Paste the GTM code within the `&lt;head&gt;` tags, as high as possible.
+
+
 
 ‍![](/img/sop-digital-ads-campaign/104.png)
 
-Note: Back up theme files before editing.
+- Note: Please take the backup of the code before you paste the GTM script
+
+
 
 **Facebook Account Access Request**
 
-| No. | Stage |
-| --- | --- |
-| 1 | Give partner BM ID **865125153846998** and how to share an ad account to another Business Manager |
-| 2 | Partner: Business Manager → **Business settings** → **Users** → **Partners** → **Add** → **Give a partner access to your assets** |
-| 3 | Partner enters our BM ID → selects assets → **Full control** → send |
+- The client/partner needs here is our business manager ID (865125153846998) and the basic instructions for how to share an ad account with another FB business manager.
+  - Login to your business manager and go to business settings.
+  - Select Users > Partners > Add > Give a partner access to your assets.
+  - Copy and paste in our BM ID.
+  - Select the assets they want to share with us, select "full control," and send.
+
+
 
 ## **Google Search Console process:**
 
 By connecting Google Search Console (GSC) with Google Ads, you get a snapshot glance of paid vs. organic keywords. You will get data at the Search Query and Keyword levels to see the incremental value of paid vs. organic terms.
 
-| No. | Stage |
-| --- | --- |
-| 1 | Log in to [Google Search Console](https://search.google.com/search-console/welcome?utm_source=about-page) |
-| 2 | **Add property** → add the site URL |
+- Login to [Google Search Console](https://search.google.com/search-console/welcome?utm_source=about-page)
+- Add Property >> Add the URL you want to submit in the search console
 
-![](/img/sop-digital-ads-campaign/105.png)
 
-Under **URL prefix**, add the link.
 
+-*![](/img/sop-digital-ads-campaign/105.png)  
+  
+Under URL Prefix >> Add the link.**
+
+  
 ![](/img/sop-digital-ads-campaign/106.png)
 
-After verification, the property shows data. Common verification options:
+Once the code is added to the website, the dashboard will show the data. We have different kinds of verification methods. Uploading the html file directly on the website. 
 
-| No. | Method |
-| --- | --- |
-| 1 | Upload HTML file to the site |
-| 2 | Add verification snippet on the site |
-| 3 | Verify via **Google Analytics** |
-| 4 | Verify via **Google Tag Manager** |
-| 5 | Verify via **DNS** (domain provider) |
+We will be able to get the data like search queries, top landing pages, clicks and CTR for each and every keyword.
 
 ![](/img/sop-digital-ads-campaign/107.png)
 
+2\. Copy a small code on the website and paste on the website.
+
 ![](/img/sop-digital-ads-campaign/108.png)
+
+3\. Verify through Google Analytics. 
 
 ![](/img/sop-digital-ads-campaign/109.png)
 
-![](/img/sop-digital-ads-campaign/110.png)
+4\. Verify through Google Tag manager![](/img/sop-digital-ads-campaign/110.png)
+
+- Verify with Domain Service provider
+
+
 
 ![](/img/sop-digital-ads-campaign/111.png)
 
+The below screenshot shows how it looks after verification is done.
+
 ![](/img/sop-digital-ads-campaign/112.png)
+
+The below screenshot shows the dashboard overview. We can see how many pages got indexes, search queries, CTR, and clicks for each keyword. 
 
 ![](/img/sop-digital-ads-campaign/113.png)
 
-Use high-CTR queries to inform paid and organic keyword work.
-
-</div>
+We can use the high CTR keywords 

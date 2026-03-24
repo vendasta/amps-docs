@@ -6,8 +6,6 @@ sidebar_position: 2
 
 # Google Business Profile (GBP) Creation & Claiming SOP
 
-<div class="listings-sop-doc sop-data-tables sop-data-tables--green-dark">
-
 ## Table of Contents
 
 - [**Purpose**](#purpose)
@@ -25,73 +23,93 @@ sidebar_position: 2
 
 ## Purpose
 
-| Topic | Details |
-| --- | --- |
-| **What this SOP covers** | Mandatory process for **creating** and **claiming** GBP listings through the central **Organization** account. |
-| **Why** | Reduces “limit issues” and spam flags caused by managing listings from individual emails. |
+This document outlines the mandatory process for creating and claiming Google Business Profile (GBP) listings. This new procedure is designed to resolve the "limit issues" and spam flags that occur when team members use individual email accounts to manage listings. All claiming and creation must now be done through the central Organization account.
+
+---
 
 ## The Core Principle: Working from the Organization Account
 
-Route all activity through the verified **Organization** account (individual accounts were getting flagged as spam).
+The primary reason for previous "limit issues" is Google flagging individual email accounts as spam. The new process solves this by routing all activity through our verified Organization account.
 
-| Must / never | Requirement |
-| --- | --- |
-| **MUST** | Log in to [business.google.com](https://business.google.com) with your **personal** email. |
-| **MUST** | Select the correct **Organization** (top-left) before any action. |
-| **MUST** | Use the **10-digit Group ID** (not an email) when requesting access to an existing profile. |
-| **NEVER** | Claim from Google Search (e.g. “Own this business?”) — flags spam. |
+* **You MUST** log in to business.google.com with your own personal email.
+* **You MUST** select the correct Organization from the top-left corner before taking any action.
+* **You MUST** use the 10-digit Group ID (not an email) when requesting access to an existing profile.
+* **You must NEVER** attempt to claim a listing from the Google Search results page (e.g., clicking "Own this business?"). This will flag your account as spam.
+
+---
 
 ## Initial Setup (For New Team Members)
 
-| Step | What to do |
-| --- | --- |
-| **Invitations** | Accept both: **“Boca Broadley Listings”** (direct) and **“Digital Marketing Services”** (Vendasta/channel). |
-| **Prerequisite** | If your email **already owns** GBPs, transfer them to the main group and remove yourself before joining the Org. |
-| **Wait** | After accepting, allow **1–2 hours** (or overnight) for Organization names to appear in the dropdown before working. |
+Before you can work on listings, you must be added to the Organization.
+
+**Accept Invitations:** Your manager will invite your email to two groups: "Boca Broadley Listings" (for direct customers) and "Digital Marketing Services" (for Vendasta/channel customers). You must accept both invitations in your email.
+
+**Prerequisite Check:** If your individual email account already owns any GBP listings, you cannot be added to the Organization. You must first transfer ownership of those listings to the main group and remove yourself as a user.
+
+**Wait for Integration:** After accepting, log in to business.google.com. It may take 1–2 hours or overnight for the Organization names to appear in the top-left corner dropdown. You cannot proceed until you see these options.
+
+---
 
 ## Workflow 1: How to Create a Brand New Listing
 
-Use when the business has **no** existing GBP.
+Use this process when a business does not have an existing GBP.
 
-| No. | Stage |
-| --- | --- |
-| 1 | Log in to business.google.com. |
-| 2 | Select the correct **Organization** (e.g. Broadly vs Marketing Services for Vendasta). |
-| 3 | Select the **Profile Group** (e.g. Boca Broadley Listings or Digital Marketing Services). |
-| 4 | **Add Business** → **Add a single business**. |
-| 5 | Follow prompts; search the business name — confirms new vs existing. |
-| 6 | Complete creation → auto-verification when possible, or standard verification flow. |
+1. Log in to business.google.com.
+2. Select the correct Organization from the top-left dropdown (e.g., "Broadly" for direct, "Marketing Services" for Vendasta).
+3. Select the corresponding Profile Group (e.g., "Boca Broadley Listings" or "Digital Marketing Services").
+4. Click the blue "Add Business" button and select "Add a single business".
+5. Follow the on-screen prompts, searching for the business name within this workflow. The system will either confirm the business is new or find an existing profile.
+6. Complete the creation steps. This method will automatically verify the listing if possible, or place it into the standard verification flow.
 
 ---
 
 ## Workflow 2: How to Request Access to an Existing Listing
 
-**Stop:** Do **not** ask the client to add an email address. **Find** the 10-digit Group ID for the right brand (see [Reference](#reference-10-digit-group-ids)).
+**Stop:** DO NOT ask the client to add an email address.
+
+**Find the Group ID:** Get the 10-digit Business Group ID for the correct brand ("Boca Broadly Listings" or "Digital Marketing Services").
 
 ### Instruct the Client (The Key Step)
 
-Safest path — avoids duplicates.
+This is the safest way to gain access without creating duplicates.
 
-| No. | Stage |
-| --- | --- |
-| 1 | Client logs into the Google account tied to the business (try primary business emails if unsure). For agency-led access, use the correct brand group (Boca Broadly Listings or Digital Marketing Services). |
-| 2 | In GBP: **Business Profile settings** → **People and access** → **Add** → paste **10-digit Group ID** in the email field → **Manager** or **Owner** → **Invite**. |
-| 3 | **You** accept the invite from the **Organization** dashboard. |
+1. Ask the client to log in to their Google Account associated with their business. If they don't know which account, have them try their primary business emails. If they want us to do it on their behalf, request the access from the correct brand group (Boca Broadly Listings or Digital Marketing Services).
+2. Once they are in their GBP, instruct them to:
+   * Go to **Business Profile settings** > **People and access**.
+   * Click **Add**.
+   * Paste the 10-digit Group ID into the email field.
+   * Set the access level to **Manager** or **Owner** and click **Invite**.
+3. **Accept the Invitation:** Accept the invitation from your main Organization dashboard.
 
-**If the client can’t find the profile / lost access:** Do **not** duplicate. Client runs Google **Request ownership** first; after **3 days** they may reclaim; only then invite your Group ID (client-first / third-party policy).
+**What if the client can't find their profile or has lost access?**
+
+Do not create a duplicate. The client must go through Google's "Request ownership" flow themselves first. They will request access from the current (unknown) owner. If the current owner doesn't respond after 3 days, the client may be given the option to claim and re-verify the profile themselves. Only after the client has regained access should they invite your Group ID. This "client-first" approach keeps your agency compliant and respects the business owner's primary ownership (a key part of Google's third-party policy).
 
 ### Method 2 (Alternate): Agency Requests from Client
 
-Use if Method 1 isn’t possible or white-label isn’t a concern (e.g. direct Broadly).
+Use this if the client cannot follow Method 1 or if you are not concerned with white-labeling (e.g., for direct Broadly clients).
 
-| No. | Stage |
-| --- | --- |
-| 1 | business.google.com → correct **Organization** + **Profile Group** (Workflow 1). |
-| 2 | **Add business** → **Add a single business**. |
-| 3 | Search business name → profile shows **owned by someone else**. |
-| 4 | Use **Request access to manage this business**. |
-| 5 | Complete the form — **Ownership** level (management-only often blocks appeal path). **Broadly:** phone +1 800-266-0219, agency Broadly, listings@broadly.com. **Vendasta:** +1 866-378-8031, Your Digital Agents (or approved WL), admin@yourdigitalagents.com. |
-| 6 | **Submit** — owner approves via email. |
+1. Log in to business.google.com and select your Organization and Profile Group as described in Workflow 1.
+2. Click **Add business** > **Add a single business**.
+3. **Search & Find:** Type the client's business name. The system will find the existing profile and state that it is "owned by someone else".
+4. **Request Access:** The system will present a "Request access to manage this business" form.
+5. **Fill Form Correctly** with the official agency contact information:
+
+   **For Broadly (Direct) Clients:**
+   * **What level of access:** Ownership. *(By requesting management access only, if the current owner doesn't respond or rejects our request, we will most of the time not get a chance to appeal and claim the listing. Request ownership to avoid being stuck.)*
+   * **Your contact name:** [Your Name]
+   * **Your phone number:** +1 800-266-0219
+   * **Your agency name:** Broadly
+   * **Agency email address:** listings@broadly.com
+
+   **For Vendasta (Channel) Clients:**
+   * **What level of access:** Ownership
+   * **Your contact name:** [Your Name]
+   * **Your phone number:** +1 866-378-8031
+   * **Your agency name:** Your Digital Agents (or other approved white-label name)
+   * **Agency email address:** admin@yourdigitalagents.com
+
+6. **Submit & Wait:** Click "Submit." The client (the profile owner) will receive an email to approve your request.
 
 ---
 
@@ -110,16 +128,16 @@ When requesting access (Workflow 2), use the following static 10-digit ID. This 
 
 ## Bing
 
-Similar to Google — use the dashboard flow.
+The process is very similar to Google:
 
-| No. | Stage |
-| --- | --- |
-| 1 | Check for an existing listing. |
-| 2 | Log in to Bing Dashboard (**bingplaces@yourdigitalagents.com**). |
-| 3 | **⋯** (top right) → **Add a business** → **Claim or add manually**. |
-| 4 | Search name + city/state → **Claim listing** if match; else **Create a new listing**. |
-| 5 | **Claiming:** note verification options in task notes → comms. **New build:** enter info, note verification → comms. |
-| 6 | Complete verification with partner/client; comms returns task or completes. |
+1. Check for an existing listing.
+2. Log in to our Bing Dashboard (bingplaces@yourdigitalagents.com).
+3. Once logged in, in the top right corner, click the 3 little dots and then **Add a business**. A menu will pop up where you will select **Claim or add manually**.
+4. Search the business name and city/state. If a listing with matching info appears, click the listing and then **claim listing**. If no listing appears/exists, at the bottom of the page, click **Create a new listing**.
+5. Follow the prompts depending on which path you take.
+   * **If Claiming Existing:** Note down the verification methods being offered in the task notes and assign them to the comms team member.
+   * **If building a new listing:** Enter the business info as requested, note down the verification methods, and assign it to the comms team.
+6. Work to verify the listing with the partner/client; once verified, the comms team will assign the task back to us or mark it as complete.
 
 **Potential Risks & Considerations (Compared to Google):**
 
@@ -186,5 +204,3 @@ Following "create new, mark old closed" today: you lose all reviews, customer ph
 **For a True Duplicate:** (e.g., two listings for "Bob's Auto" at 123 Main St) We don't use "Permanently Closed" either. We contact Google Support and request a "merge," which combines the two.
 
 **Use "Permanently Closed" only when:** The business is gone forever and is not being replaced.
-
-</div>
