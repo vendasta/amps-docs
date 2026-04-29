@@ -1,9 +1,9 @@
 ---
-title: "Amazon Ads Policies & Guidelines "
-sidebar_label: "Amazon Ads Policies & Guidelines "
+title: "Amazon Policies & Guidelines "
+sidebar_label: "Amazon Policies & Guidelines "
 ---
 
-# Amazon Ads Policies & Guidelines
+# Amazon Policies & Guidelines
 
 Review Process:
 
