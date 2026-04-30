@@ -252,10 +252,10 @@ Website Support requests are divided into **three tiers** (plus Tier 0) based on
 
 | Tier | VTM Task Name | Turnaround Time | Types of Requests | Examples |
 |------|----------------|-----------------|-------------------|----------|
-| **Tier 0** | Website Support Request T0 | Immediate / Same Day | Quick basic website support requests | Photo changes, colour changes, button updates |
+| **Tier 0** | Website Support Request T0 | 1 Business Day | Quick basic website support requests | Photo changes, colour changes, button updates |
 | **Tier 1** | Website Support Request T1 | 1 Business Day | Basic website support requests | Basic requests, changes, updates; information updates; website down; uploading blogs; **pushing websites live**** |
-| **Tier 2** | Website Support Request T2 | 3–5 Business Days | Lengthy requests, multiple edits | Large number of edits; requests that take longer than 30 minutes; Adobe XD or markup files; documents with edits |
-| **Tier 3** | Website Support Request T3 | 3 Business Days | Technical requests | Integrations; changes to website functionality; plugins; hourly charges; email issues; analytics; indexing concerns |
+| **Tier 2** | Website Support Request T2 | 1 Business Day | Lengthy requests, multiple edits | Large number of edits; requests that take longer than 30 minutes; Adobe XD or markup files; documents with edits |
+| **Tier 3** | Website Support Request T3 | 1 Business Day | Technical requests | Integrations; changes to website functionality; plugins; hourly charges; email issues; analytics; indexing concerns |
 
 **\*\*Pushing websites live:** DNS records should **not** be adjusted any later than **2:00 PM CST** Monday–Thursday or **noon on Fridays**. Delays in SSL certificate generation can cause the site to go down until SSL is generated in Website Pro. We strongly recommend against pushing sites live after noon on Fridays; if an issue arises, there may be no one available to troubleshoot until Monday morning.
 
